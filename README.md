@@ -32,7 +32,17 @@ CDN = https://gh-proxy.com/https://raw.githubusercontent.com/s88037zz/dotabyss-t
 | `another_name/` | 別名 |
 | `ability_descriptions/` | 技能 / 覺醒描述 |
 | `novels/` | 劇情對話（依劇情 ID 分子目錄） |
-| `add-on/` | 社群 UI 翻譯（道具、酒館、任務、系統文字等） |
+| `add-on/` | 社群 UI 翻譯（道具、酒館、任務、系統文字等，人工校對優先） |
+| `other/` | 機翻後人工校對的補充譯文（依子類別分目錄，如 `bar/`、`ui_misc/`） |
+
+> **注意：** `other/` 由插件從本機 `cache/translations/other/` 讀取，**不會**像 `names/` 那樣自動從 CDN 下載。從 repo 取得後需手動複製到本機 cache：
+
+```powershell
+# 將 other/ 同步到本機（保留你本機的 pending 佇列）
+$src = ".\translations\other"   # clone 後的 repo 路徑
+$dst = "BepInEx\plugins\AbyssMod\cache\translations\other"
+Copy-Item "$src\*" $dst -Recurse -Force
+```
 
 ## 貢獻
 

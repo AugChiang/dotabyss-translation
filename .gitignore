@@ -1,4 +1,5 @@
 *.bak
 *.tmp
+*.pending.json
 .DS_Store
 Thumbs.db
