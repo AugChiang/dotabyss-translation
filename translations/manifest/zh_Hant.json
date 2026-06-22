@@ -1,6 +1,22 @@
 {
+    "ability_descriptions": "b54d4079c196baa4d53ed122eee5db1a",
+    "add_on": {
+        "abyss_code": "9b3a84ec4dc222a4ee00aa7a8798968e",
+        "bar": "97004655be7681f33671f04ee3109d8f",
+        "dialogue": "d95faf42741a44f3b6ee0463b7440292",
+        "dictionary": "4c39f856c161539b59145600efc422fc",
+        "equipment_effect": "493a5601c6bfb7c2c6d2f197410f8ed8",
+        "facility": "af1bdf0a850b132d87d99a1c6db0d148",
+        "items": "e1c825ef149deea21a3713da71c814be",
+        "materials": "33bdaace3475ef5a8bb1d0dd52561cfe",
+        "mission": "99058d0990e855c9c8dc321dce0fbe22",
+        "system": "62eb29a557dc42e3e06610c045254906",
+        "ui": "f01e70f83e6574ba40060a34c4c3112a",
+        "ui_misc": "7107c3ed5b9a6a1a5f906213a563ed35"
+    },
+    "another_name": "799b4989b40938adbbf79be5c265bbbd",
     "descriptions": "ad1e76008ee506d683e433dd5530ca7c",
-    "hash": "ecfda5854098e6df1c879a103b8da285",
+    "hash": "dd1a18bfeeabbfffec58d05be5d53994",
     "names": "1c5cf1578f9f7975626b7935d9458551",
     "novels": {
         "evs_10200010101": "c95babfcaaa196f3a95a887cbfa2bd5e",
@@ -838,8 +854,6 @@
         "men_10770100002": "d437928e45b562108093df3a5579407a",
         "men_10770100003": "2f93916b3e9cc76d9390d14026918b47"
     },
-    "titles": "b512043ae7ca8c3f3661d7317fa64f80",
-    "another_name": "799b4989b40938adbbf79be5c265bbbd",
     "other": {
         "abyss_code": "a99345503665fc871181e247bd246206",
         "bar": "7d0640e82439d37302780c3f4c1996c8",
@@ -850,5 +864,6 @@
         "mission": "cf57c9d6900a544130522e958a05a36a",
         "system": "c30ba8c817cb71a304967ea89409fb66",
         "ui_misc": "1c67a492e421b85841c611dcf003a0af"
-    }
+    },
+    "titles": "b512043ae7ca8c3f3661d7317fa64f80"
 }

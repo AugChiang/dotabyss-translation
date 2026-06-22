@@ -1,0 +1,33 @@
+{
+  "before": 1422,
+  "after": 1545,
+  "from_contrib": 72,
+  "from_auto": 51,
+  "still_missing": 23,
+  "still_missing_with_placeholder": 20,
+  "still_missing_keys": [
+    "HPが最も高い敵1体に【8HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 自身に紋章：情熱を【1】付与",
+    "さらに自身に与えたダメージの【{[DAMAGE_DRAIN.HEAL_RATIO:1]}】分の回復 / 紋章：衝撃を2消費し、対象に喪失【{[IMPACTSUCCEED.ABNORMAL.DURATION]秒}/ 成功率:100%】を付与",
+    "さらに自身のパラメーターの【{[SUMMON_MIRROR.PARAM_RATIO]}】を引き継ぐ氷の彫像を【60秒】召喚",
+    "ダメージ倍率が【{[DAMAGE.DAMAGE_PERCENT]}】に上昇 / 紋章：情熱が5以上のとき、自身のスキルを【{[ZEAL.SKILL_CHARGE.CHARGE_VALUE]}】チャージ",
+    "味方バックからランダム2体のスキルを【{[PRJCTL.AOE.SKILL_CHARGE.CHARGE_VALUE]}】チャージ / 自身に紋章：情熱を【1】付与",
+    "味方バック全体にスキル与ダメージUP【{[SKILLDAMAGEUP.RATE_PERCENT]}  / 30秒】を付与 / 紋章：衝撃を【3】付与",
+    "味方フロント全体に会心率UP【{[CRITICALUP.FIXED_PERCENT]} / 30秒】を付与",
+    "味方全体に通常回復の【{[RECOVER.HEAL_PERCENT]}】分の回復 / 自身に紋章：情熱を【2】付与",
+    "大砲を【40秒】召喚 / 大砲は自身のパラメーターの【{[SUMMON_SERVANT.PARAM_RATIO]}】を引き継ぐ  / 自身に紋章：情熱を【1】付与",
+    "対象が3体に変化 / 紋章：情熱が5以上のとき、対象にスキルチャージ効率UP【{[PRJCTL.AOE.ZEAL.SKILLCHARGEQUANTITYUP.RATE_PERCENT]} / 15秒】を付与",
+    "引き継ぐパラメーターが【{[PRJCTL.LAND.SUMMON_SERVANT.PARAM_RATIO]}】に変化 / 自身に紋章：情熱を【3】付与",
+    "敵1体を中心とした範囲内にいる敵全体に【2HIT / 合計{[PRJCTL.LAND.DAMAGE.DAMAGE_PERCENT]}】ダメージ / 対象に凍結【{[PRJCTL.LAND.ABNORMAL.DURATION]秒} / 成功率:50%】を付与",
+    "敵全体に石化【{[ABNORMAL.DURATION]秒} / 成功率:20%】を付与",
+    "最も近い敵1体に【10HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 自身に紋章：衝撃を【1】付与",
+    "最も近い敵を中心とした範囲内にいる敵全体に攻撃力DOWN【{[PRJCTL.LAND.ATTACKDOWN.RATE_PERCENT]} / 15秒】を付与",
+    "現在HPが最も低い味方を中心とした範囲内にいる味方全体に自身の最大HP【{[RECOVER.HEAL_PERCENT]}】分の回復",
+    "石化の成功率が【{[ABNORMAL.APPLY_PROBABILITY]}】に変化 / 自身に紋章：情熱を【1】付与",
+    "紋章：情熱が5以上のとき、凍結の付与秒数が【{[PRJCTL.LAND.ZEAL.ABNORMAL.DURATION]秒}】に変化",
+    "紋章：情熱が5以上のとき、自身に連撃率UP【20% / {[ZEAL.ATTACKCONTINUOUSPROBABILITYUP.DURATION]}秒】を付与",
+    "紋章：衝撃を5消費し、対象に魅了【{[PRJCTL.LAND.IMPACTSUCCEED.ABNORMAL.DURATION]秒} / 成功率:100%】を付与",
+    "自身のパラメーターの【{[PRJCTL.LAND.SUMMON_SERVANT.PARAM_RATIO]}】を引き継ぐ魔法植物を【40秒】召喚",
+    "自身の前方範囲内にいる敵全体に【3HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 凍結【20秒 / 成功率:60%】を付与",
+    "自身の前方範囲内にいる敵全体に【5HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ"
+  ]
+}
