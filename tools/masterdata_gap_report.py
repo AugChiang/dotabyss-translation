@@ -53,7 +53,8 @@ from typing import Any
 FIELD_MAP: list[tuple[str, str, str]] = [
     # (檔名前綴通配,  欄位名,               翻譯 category)
     ("m_characters",            "name",          "names"),
-    ("m_character_profiles",    "catchphrase",   "another_name"),
+    ("m_character_profiles",    "another_name",  "another_name"),  # 角色稱號（二つ名）
+    ("m_character_profiles",    "catchphrase",   "catchphrase"),   # 角色標語/台詞（佔位字串會被過濾）
     ("m_character_profiles",    "flavor_text",   "descriptions"),
     ("m_character_skins",       "name",          "ui_misc"),
     ("m_character_skins",       "serif",         "dialogue"),
@@ -113,6 +114,7 @@ CATEGORY_PATH: dict[str, list[str]] = {
     "titles":               ["titles/zh_Hant.json"],
     "descriptions":         ["descriptions/zh_Hant.json"],
     "another_name":         ["another_name/zh_Hant.json"],
+    "catchphrase":          ["add-on/catchphrase/zh_Hant.json"],
     # 以下 category 的 CDN 正式路徑是 other/，add-on/ 為本地收集版，兩者合併計算
     "items":                ["add-on/items/zh_Hant.json"],
     "materials":            ["other/materials/zh_Hant.json",  "add-on/materials/zh_Hant.json"],
@@ -129,6 +131,9 @@ MASTERDATA_BASE_URL = "https://raw.githubusercontent.com/DotAbyss/Masterdata/mai
 MASTERDATA_API_URL  = "https://api.github.com/repos/DotAbyss/Masterdata/contents/data"
 
 JP_RE = re.compile(r"[\u3040-\u30ff\u4e00-\u9fff]")
+
+# 佔位字串：尚未填寫的 masterdata 預設值（例：キャッチフレーズ100001），不應計入缺口
+PLACEHOLDER_RE = re.compile(r"^(キャッチフレーズ|プレースホルダー|placeholder|テキスト)\d*$")
 
 
 # ──────────────────────────────────────────────────────────────────────────────
@@ -227,6 +232,8 @@ def extract_ja_strings(masterdata_dir: Path | None) -> dict[str, set[str]]:
             for field, cat in all_field_cats:
                 v = row.get(field)
                 if isinstance(v, str) and v.strip() and JP_RE.search(v):
+                    if PLACEHOLDER_RE.match(v.strip()):
+                        continue
                     result[cat].add(v)
 
     print()  # 換行
