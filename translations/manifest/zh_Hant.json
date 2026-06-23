@@ -1,24 +1,24 @@
 {
-    "ability_descriptions": "b54d4079c196baa4d53ed122eee5db1a",
+    "ability_descriptions": "c909eb66cb83273ca3d51cd05ab449a7",
     "add_on": {
-        "abyss_code": "349a2a8487f18fc653cc4778eda03d9d",
-        "bar": "97004655be7681f33671f04ee3109d8f",
-        "catchphrase": "d5832ba00bb035bc5b7e026f157e2bb6",
-        "dialogue": "d95faf42741a44f3b6ee0463b7440292",
-        "dictionary": "4c39f856c161539b59145600efc422fc",
+        "abyss_code": "1dd76dde4cc6ab3acac589c9c557b9d3",
+        "bar": "7de6e75d5dec2751f22a723b6de96f29",
+        "catchphrase": "5775b8312f54b7b740295041c9aa26df",
+        "dialogue": "87b9f3c4af6377ebcc13db54ef9a163f",
+        "dictionary": "9f31d532dc27de521895667ceedb1634",
         "equipment_effect": "493a5601c6bfb7c2c6d2f197410f8ed8",
-        "facility": "af1bdf0a850b132d87d99a1c6db0d148",
-        "items": "6a2b77461fe667bed6c36757634c55b3",
-        "materials": "e105f5de70585d20b0a5a6ef07726357",
-        "mission": "99058d0990e855c9c8dc321dce0fbe22",
-        "system": "62eb29a557dc42e3e06610c045254906",
-        "ui": "f01e70f83e6574ba40060a34c4c3112a",
-        "ui_misc": "7107c3ed5b9a6a1a5f906213a563ed35"
+        "facility": "f326efb8f57c8c78225cb812e04f137e",
+        "items": "064a62484e739b3bfc4e61a5adf12e35",
+        "materials": "c6c106005a3f8ab976b1753763a6d471",
+        "mission": "6e675f16f5970a5278f2c4c9ac438f27",
+        "system": "4c8729b734d1b0e6b8017cb0daedf51e",
+        "ui": "4989d31bb17677d66778914617adcde0",
+        "ui_misc": "59a83f5d83027b94e4de5496d60e1716"
     },
-    "another_name": "1908665fa05687d22f6be6f4fd18940a",
-    "descriptions": "ac22a803a01715b6605e9ce255e04418",
-    "hash": "c368483e277f0bb6a2cbabb60922852a",
-    "names": "5d04da35c81242117df2effacdd10019",
+    "another_name": "34666fa3298016de551c3f620574ab7c",
+    "descriptions": "0131abd4f5bbfc42d7cc138eaea9db9a",
+    "hash": "22e391e5fd92a7fa48724662b9d2ae97",
+    "names": "b0559c1ea09185a9e9794850b0ade094",
     "novels": {
         "evs_10200010101": "c95babfcaaa196f3a95a887cbfa2bd5e",
         "evs_10200010201": "0a1be6c1ef6b539b64b46c06bad612b5",
@@ -866,5 +866,5 @@
         "system": "c30ba8c817cb71a304967ea89409fb66",
         "ui_misc": "1c67a492e421b85841c611dcf003a0af"
     },
-    "titles": "b512043ae7ca8c3f3661d7317fa64f80"
+    "titles": "e252a9c127988e92789d33b309275aa4"
 }
