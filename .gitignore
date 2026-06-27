@@ -11,3 +11,6 @@ Thumbs.db
 # Local editor / agent settings
 .claude/
 **/.claude/
+
+# Local temp
+.sync_state.json
