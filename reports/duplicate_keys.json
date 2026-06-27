@@ -1,0 +1,5247 @@
+{
+  "": [
+    "m_buff_types",
+    "m_event_top_characters"
+  ],
+  "15秒に1回、マナを【{2}】チャージ": [
+    "ability_descriptions",
+    "m_ability_details"
+  ],
+  "1日目のログイン完了": [
+    "m_missions",
+    "ui_texts"
+  ],
+  "2日目もログインする": [
+    "m_missions",
+    "ui_texts"
+  ],
+  "30秒に1回、マナを【{10}】獲得": [
+    "ability_descriptions",
+    "m_ability_details"
+  ],
+  "30秒に1回、マナを【{1}】獲得": [
+    "ability_descriptions",
+    "m_ability_details"
+  ],
+  "30秒に1回、マナを【{2}】獲得": [
+    "ability_descriptions",
+    "m_ability_details"
+  ],
+  "30秒に1回、マナを【{3}】獲得": [
+    "ability_descriptions",
+    "m_ability_details"
+  ],
+  "30秒に1回、マナを【{4}】獲得": [
+    "ability_descriptions",
+    "m_ability_details"
+  ],
+  "30秒に1回、マナを【{5}】獲得": [
+    "ability_descriptions",
+    "m_ability_details"
+  ],
+  "30秒に1回、マナを【{6}】獲得": [
+    "ability_descriptions",
+    "m_ability_details"
+  ],
+  "30秒に1回、マナを【{7}】獲得": [
+    "ability_descriptions",
+    "m_ability_details"
+  ],
+  "30秒に1回、マナを【{8}】獲得": [
+    "ability_descriptions",
+    "m_ability_details"
+  ],
+  "30秒に1回、マナを【{9}】獲得": [
+    "ability_descriptions",
+    "m_ability_details"
+  ],
+  "30秒に1回、自身に紋章：情熱を【{1}】付与": [
+    "ability_descriptions",
+    "m_ability_details"
+  ],
+  "30秒に1回、自身に紋章：情熱を【{2}】付与": [
+    "ability_descriptions",
+    "m_ability_details"
+  ],
+  "30秒経過ごとに、バック全体に情熱を【1】付与する": [
+    "m_nether_codes",
+    "ui_texts"
+  ],
+  "30秒経過ごとに、バック全体に紋章：衝撃を【1】付与する": [
+    "m_nether_codes",
+    "ui_texts"
+  ],
+  "30秒経過ごとに、フロント全体に紋章：衝撃を【1】付与する": [
+    "m_nether_codes",
+    "ui_texts"
+  ],
+  "3体のキャラクターのアビリティLvを5にする": [
+    "m_missions",
+    "ui_texts"
+  ],
+  "50個集めて「アイテム一覧」で使用することで\n探索者を加入させることができる。\nSSRはエルドラーナの探索者が確定。": [
+    "add-on/items",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "50個集めて「アイテム一覧」で使用することで\n探索者を加入させることができる。\nSSRはペルディオンの探索者が確定。": [
+    "add-on/items",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "50個集めて「アイテム一覧」で使用することで\n探索者を加入させることができる。\nSSRはミレスガルドの探索者が確定。": [
+    "add-on/items",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "50個集めて「アイテム一覧」で使用することで\n探索者を加入させることができる。\nSSRは千國聯合の探索者が確定。": [
+    "add-on/items",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "50個集めるとショップの「交換所」でミレスガルド、ペルディオン、エルドラーナ、千國聯合いずれかに所属するキャラクターの純真結晶と交換することができる。": [
+    "add-on/items",
+    "add-on/materials"
+  ],
+  "6体のキャラクターを絆Lv5にする": [
+    "m_missions",
+    "ui_texts"
+  ],
+  "<color=#4CF37B>{0}絆pt</color>を消費して<color=#4CF37B>強化</color>しますか？": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "<color=#4CF37B>{0}覚醒pt</color>を消費して<color=#4CF37B>強化</color>しますか？": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "<color=#4CF37B>アビスジェムx{0}</color>を消費して\\n<color=#4CF37B>ディアーナ＆レヴィエーヌマルチピックアップガチャ</color>を<color=#4CF37B>{1}回</color>実行しますか？": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "<color=#4CF37B>アビスジェムx{0}</color>を消費して\\n<color=#4CF37B>プレミアムガチャ</color>を<color=#4CF37B>{1}回</color>実行しますか？": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "<color=#4CF37BFF>アップグレード</color>を行いますか？": [
+    "add-on/facility",
+    "ui_texts"
+  ],
+  "<color=#6B8CFF>紋章：衝撃</color>を{0}消費し、ダメージ倍率が【<color=#4CF37B>{1}%</color>】に変化": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "<color=#6B8CFF>紋章：衝撃</color>を{0}消費し、ダメージ倍率が【{1}%】に変化": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "<color=#6B8CFF>紋章：衝撃</color>を{0}消費し、ノワール憑依が【{1}秒】に変化 / ダメージ倍率が【<color=#4CF37B>{2}%</color>】に変化": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "<color=#6B8CFF>紋章：衝撃</color>を{0}消費し、ノワール憑依が【{1}秒】に変化 / ダメージ倍率が【{2}%】に変化": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "<color=#6B8CFF>紋章：衝撃</color>を{0}消費し、対象に防御力DOWN【<color=#4CF37B>{1}%</color> / {2}秒】を付与": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "<color=#6B8CFF>紋章：衝撃</color>を{0}消費し、対象に防御力DOWN【{1}% / {2}秒】を付与": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "<color=#6B8CFF>紋章：衝撃</color>を{0}消費し、対象に魅了【<color=#4CF37B>{1}秒</color> / 成功率:{2}%】を付与": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "<color=#6B8CFF>紋章：衝撃</color>を{0}消費し、対象に魅了【{1}秒 / 成功率:{2}%】を付与": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "<color=#AC83FD>「料理」</color>が付与されているスタッフに\n<color=#AC83FD>「ドリンク」</color>を付与する。": [
+    "add-on/bar",
+    "ui_texts"
+  ],
+  "<color=#FF5050>紋章：情熱</color>が{0}以上のとき、凍結の付与秒数が【<color=#4CF37B>{1}秒</color>】に変化": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "<color=#FF5050>紋章：情熱</color>が{0}以上のとき、凍結の付与秒数が【{1}秒】に変化": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "<gradient=\"GachaSkillColorGrad\">HPが最も高い敵{0}体</gradient>に<br>": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "DMMポイントバックキャンペーン": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "GAMESミッションの不具合に対する補填です。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "HP{0}%以下の味方、または状態異常の味方がいるとき自動で発動": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "HP{0}%以下の味方がいるとき自動で発動": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "HPが最も高い敵{0}体に【{1}HIT / 合計<color=#4CF37B>{2}%</color>】ダメージ / 麻痺【{3}秒/成功率:<color=#4CF37B>{4}%</color>】を付与": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "HPが最も高い敵{0}体に【{1}HIT / 合計{2}%】ダメージ / 麻痺【{3}秒/成功率:{4}%】を付与": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "HP割合が最も低い味方{0}体に通常回復の【<color=#4CF37B>{1}%</color>】回復 / 会心率UP【<color=#4CF37B>{2}%</color> / {3}秒】を付与": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "HP割合が最も低い味方{0}体に通常回復の【{1}%】回復 / 会心率UP【{2}% / {3}秒】を付与": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "VIP<br>に配置": [
+    "add-on/bar",
+    "ui_texts"
+  ],
+  "{0}/{1} FANZA GAMES人気ランキング {2}位受賞のお礼です": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "{0}/{1} FANZA GAMES人気ランキング等 W{2}位受賞のお礼です": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "{0}/{1} {2}:{3}まで": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "{0}/{1}/{2} {3}:{4}まで": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "{0}/{1}/{2}　{3}:{4}:{5}まで": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "{0}/{1}/{2}〜{3}/{4}/{5}<br>{6}:{7}まで": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "{0}/{1}アカウント連携のご案内不備のお詫びです": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "{0}件発生！": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc",
+    "ui_texts"
+  ],
+  "{0}個の装備を分解して以下のマイレージ報酬を獲得しました。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "{0}個集めて「アイテム一覧」で使用することで\n探索者を加入させることができる。\nSSRはルクスノヴァの探索者が確定。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "{0}個集めて「ガチャ」で使用することでガチャを実行できるアイテム。\n「セレクトSSR確定ガチャ」を実行できる。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "{0}日以上経過した履歴は自動的に削除されます。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "{0}秒ごとに効果範囲内にいる味方全体のHPを少量回復する。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "{0}秒ごとに攻撃範囲内にいるランダムな敵{1}体を対象とした範囲攻撃を行う。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "{0}秒ごとに最も近い敵{1}体を対象とした範囲攻撃を行う。\n攻撃範囲が広い。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "「アイテム一覧」で使用することで、\n以下のSSRキャラを{0}人選んでお迎えできる。\n・対象SSRキャラ：ニナ、ラモーナ、エミリー": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "「アイテム一覧」で使用することで、\n以下のSSRキャラを{0}人選んでお迎えできる。\n・対象SSRキャラ：ヒュメナ、マニョリア、エミリー": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "「アイテム一覧」で使用することで、アビリティ強化に必要な「上級技能元素」を「スタンス」のフロント、バック、アシストの中から選んで、1個獲得できる。": [
+    "add-on/items",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "「アイテム一覧」で使用することで、アビリティ強化に必要な「上級技能元素」を「属性」の火、水、土、光、闇、無の中から選んで、{0}個獲得できる。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "「アイテム一覧」で使用することで、アビリティ強化に必要な「上級技能元素」を全種の中から選んで、1個獲得できる。": [
+    "add-on/items",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "「アイテム一覧」で使用することで、アビリティ強化に必要な「中級技能元素」を「スタンス」のフロント、バック、アシストの中から選んで、1個獲得できる。": [
+    "add-on/items",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "「アイテム一覧」で使用することで、アビリティ強化に必要な「中級技能元素」を「属性」の火、水、土、光、闇、無の中から選んで、1個獲得できる。": [
+    "add-on/items",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "「アイテム一覧」で使用することで、アビリティ強化に必要な「中級技能元素」を全種の中から選んで、1個獲得できる。": [
+    "add-on/items",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "「アイテム一覧」で使用することで、アビリティ強化に必要な「初級技能元素」を「スタンス」のフロント、バック、アシストの中から選んで、1個獲得できる。": [
+    "add-on/items",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "「アイテム一覧」で使用することで、アビリティ強化に必要な「初級技能元素」を「属性」の火、水、土、光、闇、無の中から選んで、1個獲得できる。": [
+    "add-on/items",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "「アイテム一覧」で使用することで、アビリティ強化に必要な「初級技能元素」を全種の中から選んで、1個獲得できる。": [
+    "add-on/items",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "「アイテム一覧」で使用することで、アビリティ強化に必要な各種「技能元素」をBOXのラインナップから、{0}種類選んで獲得できる。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "「アイテム一覧」で使用することで、キャラクターとの絆Lvを上げられる各勢力のプレゼントをBOXのラインナップから選んで、1個獲得できる。": [
+    "add-on/items",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "「アイテム一覧」で使用することで、装備「ランク4」のレアリティ「レジェンダリー」で「紋章：情熱」エンチャントを持つ「武器」をBOXラインナップから選んで、1個獲得できる。": [
+    "add-on/items",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "「アイテム一覧」で使用することで、装備「ランク{0}」のレアリティ「レジェンダリー」で「紋章：衝撃」エンチャントを持つ「武器」をBOXラインナップから選んで、{1}個獲得できる。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "「アイテム一覧」で使用することで装備「ランク1」のレアリティ「レジェンダリー」の「武器」をBOXラインナップから選んで、1個獲得できる。": [
+    "add-on/items",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "「アイテム一覧」で使用することで装備「ランク3」のレアリティ「レジェンダリー」の「アクセサリ」をBOXラインナップから選んで、1個獲得できる。": [
+    "add-on/items",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "「アイテム一覧」で使用することで装備「ランク3」のレアリティ「レジェンダリー」の「武器」をBOXラインナップから選んで、1個獲得できる。": [
+    "add-on/items",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "「アイテム一覧」で使用することで装備「ランク3」のレアリティ「レジェンダリー」の「防具」をBOXラインナップから選んで、1個獲得できる。": [
+    "add-on/items",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "「アイテム一覧」で使用することで装備「ランク4」のレアリティ「レジェンダリー」の「武器」をBOXラインナップから選んで、1個獲得できる。": [
+    "add-on/items",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "「アイテム一覧」で使用することで装備「ランク{0}」のレアリティ「レジェンダリー」の「アクセサリ」をBOXラインナップから選んで、{1}個獲得できる。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "「アイテム一覧」で使用することで装備「ランク{0}」のレアリティ「レジェンダリー」の「防具」をBOXラインナップから選んで、{1}個獲得できる。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "「アシスト」の探索者の力を秘めた技能元素。\n「キャラ詳細」でアビリティの強化に使用できる。イベントや「ルディアのお店」の営業報酬などで獲得できる。": [
+    "add-on/items",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "「エミリー」の新しいアビリティ<br><color=#4cf37b>「マナデリバリー」</color>を解放可能になりました。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "「エレクトロボール」Lv{0}": [
+    "add-on/facility",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "「ガチャ」を実行することができる特別なチケット。\n「プレミアムガチャ」を実行できる。": [
+    "add-on/items",
+    "add-on/materials"
+  ],
+  "「ショップ」の交換所で様々なアイテムと交換できる。\n限界突破の上限に達したキャラを入手した際に獲得できる。": [
+    "add-on/items",
+    "add-on/system"
+  ],
+  "「ニナ」の新しいアビリティ<br><color=#4cf37b>「ティータイム」</color>を解放可能になりました。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "「バック」の探索者の力を秘めた技能元素。\n「キャラ詳細」でアビリティの強化に使用できる。イベントや「ルディアのお店」の営業報酬などで獲得できる。": [
+    "add-on/items",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "「ヒナギ」の新しいアビリティ<br><color=#4cf37b>「破邪の結界」</color>を解放可能になりました。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "「フロント」の探索者の力を秘めた技能元素。\n「キャラ詳細」でアビリティの強化に使用できる。イベントや「ルディアのお店」の営業報酬などで獲得できる。": [
+    "add-on/items",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "「交流」で絆Lvを5以上にすると<br>アビリティの解放が可能になります。": [
+    "add-on/mission",
+    "ui_texts"
+  ],
+  "「光」属性の力を秘めた技能元素。\n「キャラ詳細」でアビリティの強化に使用できる。\n主に迎撃戦の報酬として獲得できる。": [
+    "add-on/items",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "「土」属性の力を秘めた技能元素。\n「キャラ詳細」でアビリティの強化に使用できる。\n主に迎撃戦の報酬として獲得できる。": [
+    "add-on/items",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "「水」属性の力を秘めた技能元素。\n「キャラ詳細」でアビリティの強化に使用できる。\n主に迎撃戦の報酬として獲得できる。": [
+    "add-on/items",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "「深淵」限定アイテム\n再現不可能なほど微細で複雑なカットが施された宝石。\n「深部調査」で深淵限定の特殊効果の解放に使用できる。": [
+    "add-on/items",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "「深淵」限定アイテム\n深淵に浸食されながらも動き続ける歯車。\n「深部調査」で深淵限定の特殊効果の解放に使用できる。": [
+    "add-on/items",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "「深淵」限定アイテム\n深淵内で座標を示すことのできる貴重な遺物。\n力尽きても獲得したアイテムを持ち帰ることができる。": [
+    "add-on/items",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "「深淵」限定アイテム\n謎の技術で立方体状に切り取られ、置換された空間。\n「深部調査」で深淵限定の特殊効果の解放に使用できる。": [
+    "add-on/items",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "「深淵」限定アイテム\n闇を固めたかのような黒き水晶。\n「深部調査」で深淵限定の特殊効果の解放に使用できる。": [
+    "add-on/items",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "「火」属性の力を秘めた技能元素。\n「キャラ詳細」でアビリティの強化に使用できる。\n主に迎撃戦の報酬として獲得できる。": [
+    "add-on/items",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "「無」属性の力を秘めた技能元素。\n「キャラ詳細」でアビリティの強化に使用できる。\n主に迎撃戦の報酬として獲得できる。": [
+    "add-on/items",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "「砲撃支援」のLv+{0}": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "「聖浄の調べ」Lv{0}": [
+    "add-on/facility",
+    "add-on/system"
+  ],
+  "「聖浄の調べ」解放": [
+    "add-on/facility",
+    "add-on/system"
+  ],
+  "「銀狼の鋭牙」の最大Lvが{0}に上昇！": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "「闇」属性の力を秘めた技能元素。\n「キャラ詳細」でアビリティの強化に使用できる。\n主に迎撃戦の報酬として獲得できる。": [
+    "add-on/items",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "『くまさんブランドタイトル合同キャンペーン』用の異世界のチケット。大切に保管しておくと良いことがあるらしい。": [
+    "add-on/items",
+    "add-on/materials"
+  ],
+  "【SR以上】探索者の証・招集": [
+    "add-on/materials",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "【SSR確定】光輝之誓約・大勳": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "【SSR確定】光輝之誓願・大勳": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "【SSR確定】探索者之證・大勳": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "【SSR確定】紅魔之榮光・大勳": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "【SSR確定】翠石之隆盛・大勳": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "【SSR確定】蒼剣の誇り・大勲": [
+    "add-on/materials",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "【SSR確定】黑縄之連帶・大勳": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "【予告】オートマタと魔術師姉妹のサプライズ": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "【情熱】火山の階層　掃討【深度{0}】": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "【情熱】火山の階層　掃討【深度{0}】をクリア！\n第３階層で【情熱】火山の階層　追跡【深度{1}】が発生！": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "【情熱】火山の階層　探索【深度{0}】": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "【情熱】火山の階層　追跡【深度{0}】": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "【情熱】火山の階層　追跡【深度{0}】をクリア！\n第３階層で【情熱】火山の階層　探索【深度{1}】が発生！": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "【条件】<color=#6B8CFF>紋章：衝撃</color>が{0}以上の味方がチェインに参加\n【効果】味方全体からランダムに条件を満たした参加者の人数分、状態異常を解除": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "【条件】<color=#6B8CFF>紋章：衝撃</color>が{0}以上の味方がチェインに参加\n【効果】敵全体に条件を満たした参加者の合計攻撃力で【{1}HIT / {2}％】のダメージ": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "【条件】<color=#6B8CFF>紋章：衝撃</color>が{0}以上の味方がチェインに参加\n【効果】条件を満たした参加者の人数に応じて毒のダメージが上昇": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "【条件】<color=#FF5050>紋章：情熱</color>が{0}以上の味方がチェインに参加\n【効果】味方に条件を満たした参加者の合計攻撃力で【{1}HIT / {2}％】の回復": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "【条件】<color=#FF5050>紋章：情熱</color>が{0}以上の味方がチェインに参加\n【効果】味方全体に条件を満たした参加者の人数×{1}％の与ダメージUP【{2}秒】を付与": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "【条件】<color=#FF5050>紋章：情熱</color>が{0}以上の味方がチェインに参加\n【効果】防御力DOWNの効果が条件を満たした参加者の人数×{1}％分上昇": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "【条件】紋章：情熱が{0}以上の味方がチェインに参加\n【効果】防御力DOWNの効果が条件を満たした参加者の人数×{1}％分上昇": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "【条件】紋章：衝撃が{0}以上の味方がチェインに参加\n【効果】味方全体からランダムに条件を満たした参加者の人数分、状態異常を解除": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "【条件】紋章：衝撃が{0}以上の味方がチェインに参加\n【効果】敵全体に条件を満たした参加者の合計攻撃力で【{1}HIT / {2}％】のダメージ": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "【発動条件】常時発動\n【効果】通常攻撃が【{0}HIT / 合計<color=#4CF37B>{1}%</color>】ダメージ / 会心時、麻痺【{2}秒 / 成功率：{3}%】を付与する攻撃に変化": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "【発動条件】常時発動\n【効果】通常攻撃が【{0}HIT / 合計{1}%】ダメージ / 会心時、麻痺【{2}秒 / 成功率：{3}%】を付与する攻撃に変化": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "【発動条件】常時発動\n【効果】通常攻撃が【{0}HIT / 合計{1}%】ダメージ / 会心時、麻痺【{2}秒 / 成功率：{3}%】を付与する攻撃に変化<br><color=#D7DEF8>【覚醒効果】</color>自身攻擊力、防禦力、最大生命提升【{4}%】": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "【発動条件】通常攻撃を{0}回行う\n【効果】次回の通常攻撃が【{1}HIT / 合計{2}%】ダメージ / ノックバック【Lv{3}】に変化": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "【発動条件】通常攻撃を{0}回行う\n【効果】次回の通常攻撃が【{1}HIT / 合計{2}%】ダメージ / ノックバック【Lv{3}】に変化<br><color=#D7DEF8>【覚醒効果】</color>自身攻擊力、防禦力、最大生命提升【{4}%】": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "【衝撃】【情熱】いずれかの探索クエストを12回クリアする": [
+    "m_missions",
+    "ui_texts"
+  ],
+  "【衝撃】廃墟の階層　探索【深度{0}】をクリア！\n第４階層で【衝撃】闇の階層　追跡【深度{1}】が発生！": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "【衝撃】廃墟の階層　追跡【深度{0}】をクリア！\n": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "【衝撃】闇の階層　掃討【深度{0}】": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "【衝撃】闇の階層　探索【深度{0}】": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "【衝撃】闇の階層　追跡【深度{0}】": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "【衝撃】闇の階層　追跡【深度{0}】をクリア！": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "【衝撃】闇の階層　追跡【深度{0}】をクリア！\n": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "【開催中】オートマタと魔術師姉妹のサプライズ": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "【開催中】ボーナスクエスト発生！": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "【開催中】決戦の採掘場": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "【開催中】第1回ラッキーボックス": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "あたしのおっぱいどうですか？": [
+    "m_gacha_group_movies",
+    "m_novel_characters"
+  ],
+  "あと{0}日{1}時間{2}分": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "あと{0}時間{1}分{2}秒": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "あれが、砂嵐の元凶……！": [
+    "m_chapter_quests",
+    "m_novel_mains"
+  ],
+  "いずれかのキャラクター10体をLv10にする": [
+    "m_missions",
+    "ui_texts"
+  ],
+  "いずれかのキャラクター10体を絆Lv5にする": [
+    "m_missions",
+    "ui_texts"
+  ],
+  "いずれかのキャラクター15体を獲得する": [
+    "m_missions",
+    "ui_texts"
+  ],
+  "いずれかのキャラクター1体を絆Lv15にする": [
+    "m_missions",
+    "ui_texts"
+  ],
+  "いずれかのキャラクター3体を絆Lv1にする": [
+    "m_missions",
+    "ui_texts"
+  ],
+  "いずれかのキャラクターに贈り物を{0}回贈る": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "いずれかのメインクエスト（周回）を3回クリアする": [
+    "m_missions",
+    "ui_texts"
+  ],
+  "いずれかのランク3装備を1個獲得する": [
+    "m_missions",
+    "ui_texts"
+  ],
+  "いずれかのレジェンダリー装備を1個獲得する": [
+    "m_missions",
+    "ui_texts"
+  ],
+  "いずれかの探索クエストを1回クリアする": [
+    "m_missions",
+    "ui_texts"
+  ],
+  "いずれかの装備を100個獲得する": [
+    "m_missions",
+    "ui_texts"
+  ],
+  "いずれかの装備を10個分解する": [
+    "m_missions",
+    "ui_texts"
+  ],
+  "うれしいプレゼント": [
+    "names",
+    "ui_texts"
+  ],
+  "えぇい！持ってけドロボー！": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "えっちを教えて！": [
+    "m_novel_characters",
+    "m_preregist_taverns"
+  ],
+  "おしごと報酬UP{0}": [
+    "add-on/bar",
+    "add-on/facility"
+  ],
+  "おしごと用<br>コスチューム": [
+    "add-on/bar",
+    "ui_texts"
+  ],
+  "お互いの守りたいもの": [
+    "m_chapter_quests",
+    "m_novel_mains"
+  ],
+  "お手伝いさせてください": [
+    "m_novel_characters",
+    "m_preregist_taverns"
+  ],
+  "お知らせ掲載用": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ここで部隊の編成ができちゃうよ～\nおにーさんは、誰を連れてくのかな～？": [
+    "m_part_voices",
+    "ui_texts"
+  ],
+  "この先は未知の領域……\nこちらからもサポートはいたしますが\nしっかりと準備してから挑みましょう。": [
+    "m_part_voices",
+    "ui_texts"
+  ],
+  "これもみんなが頑張ったからよ。えらいえらい": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "さらに<color=#6B8CFF>紋章：衝撃</color>を{0}消費し、最も攻撃力の高い光・闇・無属性の味方{1}体に衝撃消費無効{2}回【永続】を付与": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "さらにマナを【<color=#4CF37B>{0}</color>】チャージ": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "さらにマナを【{0}】チャージ": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "さらに対象に炎上【<color=#4CF37B>{0}秒</color> / 成功率:{1}%】を付与": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "さらに対象に炎上【{0}秒 / 成功率:{1}%】を付与": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "さらに最も攻撃力の高い火・水・土属性の味方{0}体に<color=#FF5050>紋章：情熱</color>を【{1}】付与 / <color=#FF5050>紋章：情熱</color>が{2}以上のとき、さらに<color=#FF5050>紋章：情熱</color>を【{3}】付与": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "さらに自身のパラメーターの【<color=#4CF37B>{0}%</color>】を引き継ぐ氷の彫像を【{1}秒】召喚": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "さらに自身のパラメーターの【{0}%】を引き継ぐ氷の彫像を【{1}秒】召喚": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "すべてのキャラの攻撃力+{0}％": [
+    "add-on/facility",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "すべてのキャラの防御力+{0}％": [
+    "add-on/facility",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "どうですか親方\n少しはお役に立てましたか？": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "またひとつ、“戦神”の伝説が\n増えたようだな。面倒なことだ": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "みんながいたからできたこと。": [
+    "m_chapter_quests",
+    "m_novel_mains"
+  ],
+  "みんな見てくれた？\nこれが水の精霊パワーだよ！": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "やったやった！　お祝いメニューを用意しなくちゃ！": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "わたしがお相手を務めます": [
+    "m_gacha_group_movies",
+    "m_novel_characters"
+  ],
+  "アイテムを使ってアビリティを解放します。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "アイテムを使用してマナ覚醒を行います。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "アイテムを使用して限界突破を行います。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "アイテムを消費してアビリティを解放": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "アウラ": [
+    "m_dictionary_non_player_characters",
+    "names"
+  ],
+  "アクセルコロン・真": [
+    "m_nether_code_category_skills",
+    "m_nether_codes"
+  ],
+  "アシュリー": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "アタシで練習してくれ！": [
+    "m_gacha_group_movies",
+    "m_novel_characters"
+  ],
+  "アヤメ": [
+    "names",
+    "ui_texts"
+  ],
+  "アヤメの主人公への思いが結晶化した物質。\n「キャラ詳細」で1個毎に「限界突破」が1回できる。\nガチャで同じキャラを入手すると自動で変換される。": [
+    "add-on/items",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "アヤメの提案": [
+    "m_tavern_character_cards",
+    "ui_texts"
+  ],
+  "アリシア": [
+    "m_dictionary_non_player_characters",
+    "m_plans",
+    "names"
+  ],
+  "アンタッチャブル・真": [
+    "m_nether_code_category_skills",
+    "m_nether_codes"
+  ],
+  "アーデルハイト": [
+    "m_dictionary_non_player_characters",
+    "m_plans",
+    "names",
+    "ui_texts"
+  ],
+  "イオラ": [
+    "names",
+    "ui_texts"
+  ],
+  "イオラの主人公への思いが結晶化した物質。\n「キャラ詳細」で1個毎に「限界突破」が1回できる。\nガチャで同じキャラを入手すると自動で変換される。": [
+    "add-on/items",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "イベントクエストが開催中です。\n参加して、特別な報酬を\nもらっちゃいましょう！": [
+    "m_part_voices",
+    "ui_texts"
+  ],
+  "イベントストーリー回想": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ウィステリア": [
+    "names",
+    "ui_texts"
+  ],
+  "ウィステリアの基本コスチュームです。": [
+    "m_character_skins",
+    "ui_texts"
+  ],
+  "ウィステリアの提案": [
+    "m_tavern_character_cards",
+    "ui_texts"
+  ],
+  "ウィステリア基本コスチューム": [
+    "m_character_skins",
+    "ui_texts"
+  ],
+  "ウィンドマント": [
+    "add-on/system",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ウェブブラウザを起動して、お知らせを確認します。<br>よろしいですか？": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ウェブブラウザを起動して、外部サイトへ移動します。<br>よろしいですか？": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ウェンディ": [
+    "names",
+    "ui_texts"
+  ],
+  "ウェンディの提案": [
+    "m_tavern_character_cards",
+    "ui_texts"
+  ],
+  "ウェンディ＆ヴィーラWピックアップガチャ": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ウルフ": [
+    "add-on/dictionary",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "エティア": [
+    "names",
+    "ui_texts"
+  ],
+  "エティアおしごと時基本コスチューム": [
+    "m_character_skins",
+    "ui_texts"
+  ],
+  "エティアの主人公への思いが結晶化した物質。\n「キャラ詳細」で{0}個毎に「限界突破」が{1}回できる。\nガチャで同じキャラを入手すると自動で変換される。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "エティアの基本コスチュームです。": [
+    "m_character_skins",
+    "ui_texts"
+  ],
+  "エティアの提案": [
+    "m_tavern_character_cards",
+    "ui_texts"
+  ],
+  "エティア基本コスチューム": [
+    "m_character_skins",
+    "ui_texts"
+  ],
+  "エミリーの主人公への思いが結晶化した物質。\n「キャラ詳細」で{0}個毎に「限界突破」が{1}回できる。\nガチャで同じキャラを入手すると自動で変換される。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "エミリースマイルでお客さんを幸せにしちゃいますよ！": [
+    "add-on/catchphrase",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "エミリーピックアップガチャ": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "エメルダ": [
+    "names",
+    "ui_texts"
+  ],
+  "エメルダの主人公への思いが結晶化した物質。\n「キャラ詳細」で{0}個毎に「限界突破」が{1}回できる。\nガチャで同じキャラを入手すると自動で変換される。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "エラーが発生しました。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "エラーが発生しました。\nError Code: {0}": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "エラーが発生しました。エラーコード: {0}": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "エリアの調査が進行し、新しいメインクエスト（周回）が解放されました。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "エルドラーナ": [
+    "m_dictionary_worlds",
+    "names",
+    "ui_texts"
+  ],
+  "エルドラーナSTAGE{0}": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "エルドラーナで流行りのプレゼント": [
+    "add-on/materials",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "エルドラーナ共和国が発行する勲章。\n{0}個集めて「アイテム一覧」で使用することでエルドラーナ所属のSSRの探索者を加入させることができる。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "エルドラーナ共和国の女の子たちに人気のプレゼント。\n「交流」でエルドラーナ女の子限定で絆Lvを上げる\nことができる。主にお店の営業で獲得できる。": [
+    "add-on/items",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "エルドラーナ勢力クエスト STAGE{0} クリア記念": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "エルミア": [
+    "names",
+    "ui_texts"
+  ],
+  "エルミアの主人公への思いが結晶化した物質。\n「キャラ詳細」で1個毎に「限界突破」が1回できる。\nガチャで同じキャラを入手すると自動で変換される。": [
+    "add-on/items",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "エレクトラ": [
+    "m_plans",
+    "names",
+    "ui_texts"
+  ],
+  "エレクトラおしごと時基本コスチューム": [
+    "m_character_skins",
+    "ui_texts"
+  ],
+  "エレクトラの基本コスチュームです。": [
+    "m_character_skins",
+    "ui_texts"
+  ],
+  "エレクトラの提案": [
+    "m_tavern_character_cards",
+    "ui_texts"
+  ],
+  "エレクトラ基本コスチューム": [
+    "m_character_skins",
+    "ui_texts"
+  ],
+  "エレメンタルマント": [
+    "add-on/system",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "エヴェイユ・ドゥ・グラス": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "エーテルノヴァブラスター": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "カーラ": [
+    "names",
+    "ui_texts"
+  ],
+  "カーラの主人公への思いが結晶化した物質。\n「キャラ詳細」で{0}個毎に「限界突破」が{1}回できる。\nガチャで同じキャラを入手すると自動で変換される。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ガーゴイル（光属性/モーション確認）": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ガーゴイル（土属性/モーション確認）": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ガーゴイル（水属性/モーション確認）": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ガーゴイル（火属性/モーション確認）": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ガーゴイル（無属性/モーション確認）": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ガーゴイル（闇属性/モーション確認）": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "キャラ10人をレベル30にする": [
+    "m_missions",
+    "ui_texts"
+  ],
+  "キャラクターが編成されていないため装備を編成することができませんでした。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "キャラクターのアビリティ1個をLv5にする": [
+    "m_missions",
+    "ui_texts"
+  ],
+  "キャラクターのアビリティ3個をLv5にする": [
+    "m_missions",
+    "ui_texts"
+  ],
+  "キャラクターのアビリティ5個をLv5にする": [
+    "m_missions",
+    "ui_texts"
+  ],
+  "キャラクターの限界突破かマナ覚醒を{0}回行う": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "キャラクターを成長させる経験値。": [
+    "descriptions",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "キャラ経験値【深度{0}】": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "キャラ経験値セット({0}時間)": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ギルデッドスチールアーマー": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "クエストから撤退しますか？": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "クエストでスタミナを240消費する": [
+    "m_missions",
+    "ui_texts"
+  ],
+  "クエスト開始時、味方全体に紋章：情熱を【{0}】付与（{1}編成につき{2}本分のみ効果発動）": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "クリスタルハーミット": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "クルル": [
+    "m_plans",
+    "names",
+    "ui_texts"
+  ],
+  "クロエ": [
+    "names",
+    "ui_texts"
+  ],
+  "クロエの主人公への思いが結晶化した物質。\n「キャラ詳細」で1個毎に「限界突破」が1回できる。\nガチャで同じキャラを入手すると自動で変換される。": [
+    "add-on/items",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ゲートキー「深淵」": [
+    "add-on/materials",
+    "add-on/system"
+  ],
+  "ゴレイヌ": [
+    "m_dictionary_non_player_characters",
+    "names"
+  ],
+  "ゴールドが詰まった不思議なボックス。\n「アイテム一覧」で使用することで探索隊の12時間分のゴールド報酬を受け取ることができる。": [
+    "add-on/items",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ゴールドが詰まった不思議なボックス。\n「アイテム一覧」で使用することで探索隊の1時間分のゴールド報酬を受け取ることができる。": [
+    "add-on/items",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ゴールドセット({0}時間)": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ゴールドセット({0}時間) ×{1}": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "シェリル": [
+    "names",
+    "ui_texts"
+  ],
+  "シエナ": [
+    "m_dictionary_non_player_characters",
+    "names"
+  ],
+  "シエナとヒマリが元いた世界": [
+    "m_chapter_quests",
+    "m_novel_mains"
+  ],
+  "シャオレイ": [
+    "names",
+    "ui_texts"
+  ],
+  "シャノン": [
+    "names",
+    "ui_texts"
+  ],
+  "シャノンの主人公への思いが結晶化した物質。\n「キャラ詳細」で1個毎に「限界突破」が1回できる。\nガチャで同じキャラを入手すると自動で変換される。": [
+    "add-on/items",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "シンクロLv35に到達する": [
+    "m_missions",
+    "ui_texts"
+  ],
+  "シンクロLv40に到達する": [
+    "m_missions",
+    "ui_texts"
+  ],
+  "シンクロLv45に到達する": [
+    "m_missions",
+    "ui_texts"
+  ],
+  "シンクロLv50に到達する": [
+    "m_missions",
+    "ui_texts"
+  ],
+  "シンクロLv55に到達する": [
+    "m_missions",
+    "ui_texts"
+  ],
+  "シンクロLv70に到達する": [
+    "m_missions",
+    "ui_texts"
+  ],
+  "ジェンマ": [
+    "names",
+    "ui_texts"
+  ],
+  "ジェンマの主人公への思いが結晶化した物質。\n「キャラ詳細」で1個毎に「限界突破」が1回できる。\nガチャで同じキャラを入手すると自動で変換される。": [
+    "add-on/items",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "スキップ{0}回につき": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "スキルがチャージがされず、スキルの使用やフォースチェイン参加が制限された状態": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "スキルチャージ効率DOWN": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "スキル与ダメージDOWN": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "スキル与ダメージUP": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "スキル被ダメージDOWN": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "スキル被ダメージUP": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "スタチュー・デ・グラス": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "スタミナ回復薬(小)": [
+    "add-on/materials",
+    "add-on/system"
+  ],
+  "スタンスがアシストの探索者は自身のパラメータ\nの一部を他の探索者に加算することができる。\n補給から攪乱まで彼らの役割は数多い。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "スティーラ": [
+    "names",
+    "ui_texts"
+  ],
+  "セレスト": [
+    "names",
+    "ui_texts"
+  ],
+  "ソフィア": [
+    "m_plans",
+    "names",
+    "ui_texts"
+  ],
+  "ソフィアの優しさ": [
+    "m_novel_characters",
+    "m_preregist_taverns"
+  ],
+  "ダメージを受けたとき、【25%】の確率で自身に紋章：情熱を【{1}】付与": [
+    "ability_descriptions",
+    "m_ability_details"
+  ],
+  "ダメージを受けたとき、【25%】の確率で自身に紋章：情熱を【{2}】付与": [
+    "ability_descriptions",
+    "m_ability_details"
+  ],
+  "ダメージ倍率が【<color=#4CF37B>{0}%</color>】に変化": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ダメージ倍率が【<color=#4CF37B>{0}%</color>】に変化 / <color=#6B8CFF>紋章：衝撃</color>を{1}消費し、防御力DOWN【<color=#4CF37B>{2}%</color> / {3}秒】を付与": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ダメージ倍率が【<color=#4CF37B>{0}%</color>】に変化 / <color=#6B8CFF>紋章：衝撃</color>を{1}消費し、麻痺【{2}秒 / 成功率:<color=#4CF37B>{3}%</color>】を付与": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ダメージ倍率が【<color=#4CF37B>{0}%</color>】に変化 / <color=#FF5050>紋章：情熱</color>が{1}以上のとき、防御力DOWN【{2}% / <color=#4CF37B>{3}秒</color>】を付与": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ダメージ倍率が【{0}%】に変化": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ダメージ倍率が【{0}%】に変化 / <color=#6B8CFF>紋章：衝撃</color>を{1}消費し、防御力DOWN【{2}% / {3}秒】を付与": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ダメージ倍率が【{0}%】に変化 / <color=#6B8CFF>紋章：衝撃</color>を{1}消費し、麻痺【{2}秒 / 成功率:{3}%】を付与": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ダメージ倍率が【{0}%】に変化 / <color=#FF5050>紋章：情熱</color>が{1}以上のとき、防御力DOWN【{2}% / {3}秒】を付与": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ダリア": [
+    "names",
+    "ui_texts"
+  ],
+  "ダリアの主人公への思いが結晶化した物質。\n「キャラ詳細」で1個毎に「限界突破」が1回できる。\nガチャで同じキャラを入手すると自動で変換される。": [
+    "add-on/items",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ダークハーピィ": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "テクニックを磨いて女を磨く": [
+    "m_gacha_group_movies",
+    "m_novel_characters"
+  ],
+  "テルー": [
+    "names",
+    "ui_texts"
+  ],
+  "ディアーナ": [
+    "names",
+    "ui_texts"
+  ],
+  "ディアーナの提案": [
+    "m_tavern_character_cards",
+    "ui_texts"
+  ],
+  "トリッキーゴーレム": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "トロッコ優先": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ドラゴン": [
+    "add-on/dictionary",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ドワーフ": [
+    "add-on/dictionary",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ニナ": [
+    "names",
+    "ui_texts"
+  ],
+  "ノエミ": [
+    "names",
+    "ui_texts"
+  ],
+  "ノエミの主人公への思いが結晶化した物質。\n「キャラ詳細」で1個毎に「限界突破」が1回できる。\nガチャで同じキャラを入手すると自動で変換される。": [
+    "add-on/items",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ノックバック強度DOWN": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ノックバック強度UP": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ノックバック抵抗DOWN": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ノックバック抵抗UP": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ハイバネーション": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ハグ": [
+    "m_chapter_quests",
+    "m_novel_mains"
+  ],
+  "ハーブティーが思い出させた事": [
+    "m_novel_characters",
+    "m_preregist_taverns"
+  ],
+  "バックキャラに紋章：情熱が付与された時、15秒間付与されたキャラのスキルダメージが【10%】上昇する": [
+    "m_nether_codes",
+    "ui_texts"
+  ],
+  "バックキャラに紋章：情熱が付与された時、15秒間付与されたキャラの連撃率が【10%】上昇する": [
+    "m_nether_codes",
+    "ui_texts"
+  ],
+  "バックキャラに紋章：衝撃が付与された時、15秒間付与されたキャラの連撃率が【10%】上昇する": [
+    "m_nether_codes",
+    "ui_texts"
+  ],
+  "バックキャラの紋章：情熱1ごとに、バック全体の会心率が【2.5%】上昇する": [
+    "m_nether_codes",
+    "ui_texts"
+  ],
+  "バックキャラの紋章：情熱1ごとに、バック全体の連撃率が【2.5%】上昇する": [
+    "m_nether_codes",
+    "ui_texts"
+  ],
+  "バックキャラの紋章：衝撃が消費された時、15秒間バック全体の連撃率が【20%】上昇する": [
+    "m_nether_codes",
+    "ui_texts"
+  ],
+  "バトル開始時、マナを【{2}】チャージ（クエスト中1回まで）": [
+    "ability_descriptions",
+    "m_ability_details"
+  ],
+  "バトル開始時、マナを【{3}】チャージ（クエスト中1回まで） / 自身に紋章：衝撃を【1】付与（クエスト中1回まで）": [
+    "ability_descriptions",
+    "m_ability_details"
+  ],
+  "バトル開始時、マナを【{4}】チャージ（クエスト中1回まで） / 自身に紋章：衝撃を【1】付与（クエスト中1回まで）": [
+    "ability_descriptions",
+    "m_ability_details"
+  ],
+  "バトル開始時、マナを【{5}】チャージ（クエスト中1回まで） / 自身に紋章：衝撃を【1】付与（クエスト中1回まで）": [
+    "ability_descriptions",
+    "m_ability_details"
+  ],
+  "バトル開始時、自身に紋章：衝撃を【{4}】付与": [
+    "ability_descriptions",
+    "m_ability_details"
+  ],
+  "バトル開始時、自身に紋章：衝撃を【{4}】付与（クエスト中1回まで）": [
+    "ability_descriptions",
+    "m_ability_details"
+  ],
+  "バトル開始時、自身に紋章：衝撃を【{8}】付与": [
+    "ability_descriptions",
+    "m_ability_details"
+  ],
+  "バトル開始時、自身に紋章：衝撃を【{8}】付与（クエスト中1回まで）": [
+    "ability_descriptions",
+    "m_ability_details"
+  ],
+  "バニースーツ": [
+    "add-on/system",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "バリア": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "パラメータ変換": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ヒナギ": [
+    "names",
+    "ui_texts"
+  ],
+  "ヒマリ": [
+    "m_plans",
+    "names",
+    "ui_texts"
+  ],
+  "ヒュメナ": [
+    "names",
+    "ui_texts"
+  ],
+  "ヒュメナの提案": [
+    "m_tavern_character_cards",
+    "ui_texts"
+  ],
+  "フィルム": [
+    "names",
+    "ui_texts"
+  ],
+  "フィルムの提案": [
+    "m_tavern_character_cards",
+    "ui_texts"
+  ],
+  "フェイリン": [
+    "names",
+    "ui_texts"
+  ],
+  "フェリシオーネ": [
+    "m_dictionary_non_player_characters",
+    "names"
+  ],
+  "フォレストマント": [
+    "add-on/system",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "フォースチェイン参加禁止": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "フレイヤ": [
+    "names",
+    "ui_texts"
+  ],
+  "フレデリカ": [
+    "names",
+    "ui_texts"
+  ],
+  "フロア1<br>に配置": [
+    "add-on/bar",
+    "ui_texts"
+  ],
+  "フロア2<br>に配置": [
+    "add-on/bar",
+    "ui_texts"
+  ],
+  "フロア3<br>に配置": [
+    "add-on/bar",
+    "ui_texts"
+  ],
+  "フロントキャラがFC発動時、15秒間フロント全体の会心ダメージが【50%】上昇する": [
+    "m_nether_codes",
+    "ui_texts"
+  ],
+  "フロントキャラに紋章：衝撃が付与された時、15秒間付与されたキャラの連撃率が【10%】上昇する": [
+    "m_nether_codes",
+    "ui_texts"
+  ],
+  "フロントキャラの紋章：衝撃が消費された時、15秒間フロント全体のスキルダメージが【50%】上昇する": [
+    "m_nether_codes",
+    "ui_texts"
+  ],
+  "ヘイリー": [
+    "m_plans",
+    "names",
+    "ui_texts"
+  ],
+  "ヘビーアーマー": [
+    "names",
+    "ui_texts"
+  ],
+  "ヘンリエッタ": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ベティ": [
+    "names",
+    "ui_texts"
+  ],
+  "ベリサ": [
+    "m_character_profiles",
+    "m_plans",
+    "names",
+    "ui_texts"
+  ],
+  "ベリサの主人公への思いが結晶化した物質。\n「キャラ詳細」で{0}個毎に「限界突破」が{1}回できる。\nガチャで同じキャラを入手すると自動で変換される。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ベリサの提案": [
+    "m_tavern_character_cards",
+    "ui_texts"
+  ],
+  "ペルディオン": [
+    "m_dictionary_worlds",
+    "names",
+    "ui_texts"
+  ],
+  "ペルディオンSTAGE{0}": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ペルディオンで流行りのプレゼント": [
+    "add-on/materials",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ペルディオンで流行りのプレゼント ×{0}": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ペルディオン勢力クエスト STAGE{0} クリア記念": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ペルディオン皇国が発行する勲章。\n{0}個集めて「アイテム一覧」で使用することでペルディオン所属のSSRの探索者を加入させることができる。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ペルディオン皇国の女の子たちに人気のプレゼント。\n「交流」でペルディオンの女の子限定で絆Lvを上げる\nことができる。主にルディアのお店の営業で獲得できる。": [
+    "add-on/items",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ホノカ": [
+    "m_plans",
+    "names",
+    "ui_texts"
+  ],
+  "ボックスの報酬をすべて獲得したため、\nボックスを更新しました。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ボーナスクエスト【深度{0}】": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "マナが{0}以上あるとき自動で発動": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "マナが多いほど攻撃力UP": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "マナの波長の一つ。\n増幅させることで一撃の破壊力が極限に達し\n敵の防備を打ち砕く攻撃力を高める。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "マナの波長の一つ。\n増幅させることで精神の集中が極限に達し\nスキルの使用頻度や会心率を高める。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "マナクリスタル【回復】": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "マナクリスタル【破壊】": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "マナクリスタル【金剛】": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "マナクリスタルと呼ばれる特殊な魔力結晶を\n媒介に発動する強力な連携攻撃。\n主人公の一族に代々伝わる秘術。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "マナチャージ効率UP": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "マリナ": [
+    "m_plans",
+    "names",
+    "ui_texts"
+  ],
+  "マリナの主人公への思いが結晶化した物質。\n「キャラ詳細」で{0}個毎に「限界突破」が{1}回できる。\nガチャで同じキャラを入手すると自動で変換される。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "マリナの提案": [
+    "m_tavern_character_cards",
+    "ui_texts"
+  ],
+  "マリナ捜索": [
+    "m_chapter_quests",
+    "m_novel_mains"
+  ],
+  "マーガレット": [
+    "names",
+    "ui_texts"
+  ],
+  "マーガレットの主人公への思いが結晶化した物質。\n「キャラ詳細」で{0}個毎に「限界突破」が{1}回できる。\nガチャで同じキャラを入手すると自動で変換される。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "マーガレットの提案": [
+    "m_tavern_character_cards",
+    "ui_texts"
+  ],
+  "ミレスガルド": [
+    "m_dictionary_worlds",
+    "names",
+    "ui_texts"
+  ],
+  "ミレスガルドSTAGE{0}": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ミレスガルドで流行りのプレゼント": [
+    "add-on/materials",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ミレスガルド勢力【{0}人】編成中": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ミレスガルド勢力クエスト STAGE{0} クリア記念": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ミレスガルド王国が発行する勲章。\n50個集めて「アイテム一覧」で使用することでミレスガルド所属のSSRの探索者を加入させることができる。": [
+    "add-on/items",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ミレスガルド王国の女の子たちに人気のプレゼント。\n「交流」でミレスガルドの女の子限定で絆Lvを上げる\nことができる。主にルディアのお店の営業で獲得できる。": [
+    "add-on/items",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "メインストーリー 第５階層": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "メインストーリーHARD 2章をクリアする": [
+    "m_missions",
+    "ui_texts"
+  ],
+  "メインストーリーNORMAL2章をクリアする": [
+    "m_missions",
+    "ui_texts"
+  ],
+  "メインストーリーNORMAL4章をクリアする": [
+    "m_missions",
+    "ui_texts"
+  ],
+  "メインストーリーNORMAL5章をクリアしよう": [
+    "m_missions",
+    "ui_texts"
+  ],
+  "メインストーリークエスト": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "メスガキ魔法使い": [
+    "m_character_profiles",
+    "ui_texts"
+  ],
+  "メモリーキューブ": [
+    "add-on/materials",
+    "add-on/system"
+  ],
+  "メリッサ": [
+    "names",
+    "ui_texts"
+  ],
+  "メレム": [
+    "names",
+    "ui_texts"
+  ],
+  "メレムの主人公への思いが結晶化した物質。\n「キャラ詳細」で1個毎に「限界突破」が1回できる。\nガチャで同じキャラを入手すると自動で変換される。": [
+    "add-on/items",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ヤチヨ": [
+    "names",
+    "ui_texts"
+  ],
+  "ユニークの装備を1回獲得する": [
+    "m_missions",
+    "ui_texts"
+  ],
+  "ライム": [
+    "names",
+    "ui_texts"
+  ],
+  "ライムの提案": [
+    "m_tavern_character_cards",
+    "ui_texts"
+  ],
+  "ラウンジ1<br>に配置": [
+    "add-on/bar",
+    "ui_texts"
+  ],
+  "ラウンジ2<br>に配置": [
+    "add-on/bar",
+    "ui_texts"
+  ],
+  "ラッキーボックス券": [
+    "add-on/system",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ラモーナの主人公への思いが結晶化した物質。\n「キャラ詳細」で{0}個毎に「限界突破」が{1}回できる。\nガチャで同じキャラを入手すると自動で変換される。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ランク{0}のエピック アストラルブラスター": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ランク{0}のエピック キルトメタルアーマー": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ランク{0}のエピック クリムゾンマント": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ランク{0}のエピック ハンティングライフル": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ランク{0}のエピック 叡智の書": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ランク{0}のエピック 名工の黒ツルハシ": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ランク{0}のエピック 幻翠の杖": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ランク{0}のエピック 聖者のマント": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ランク{0}のコモン アストラルブラスター": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ランク{0}のコモン ウィンドマント": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ランク{0}のコモン エプロンドレス": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ランク{0}のコモン キルトメタルアーマー": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ランク{0}のコモン ハンティングライフル": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ランク{0}のコモン パラディンマント": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ランク{0}のコモン パルチクルガン": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ランク{0}のコモン ヘビーアーマー": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ランク{0}のコモン ライトアーマー": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ランク{0}のコモン 兵士の剣": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ランク{0}のコモン 名匠の剣": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ランク{0}のコモン 名工の黒ツルハシ": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ランク{0}のコモン 天翔のナックル": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ランク{0}のコモン 幻翠の杖": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ランク{0}のコモン 焔刃の大剣": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ランク{0}のコモン 煌角の弓": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ランク{0}のコモン 獣爪のナックル": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ランク{0}のコモン 神託の書": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ランク{0}のコモン 聖者のマント": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ランク{0}のコモン 豪勇の剣": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ランク{0}のコモン 鉄甲のナックル": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ランク{0}のコモン 鋼鉄の大剣": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ランク{0}のコモン 魔石の杖": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ランク{0}のコモン 魔術師のマント": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ランク{0}のコモン 鳳炎の杖": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ランク{0}のレジェンダー アストラルブラスター": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ランク{0}のレジェンダー 煌角の弓": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ランダムな<color=#AC83FD>「エルドラーナ」</color>の\nスタッフ最大3体に<color=#AC83FD>「接客」</color>を付与。\nそれらのスタッフの満足度+<color=#4CF37B>20%</color>": [
+    "add-on/bar",
+    "ui_texts"
+  ],
+  "ランダムな<color=#AC83FD>「ペルディオン」</color>の\nスタッフ最大2体に<color=#AC83FD>「料理」</color>を付与。\nそれらのスタッフの満足度+<color=#4CF37B>10%</color>": [
+    "add-on/bar",
+    "ui_texts"
+  ],
+  "ランダムな<color=#AC83FD>「ペルディオン」</color>の\nスタッフ最大3体に<color=#AC83FD>「料理」</color>を付与。\nそれらのスタッフの満足度+<color=#4CF37B>20%</color>": [
+    "add-on/bar",
+    "ui_texts"
+  ],
+  "ランダムな<color=#AC83FD>「ミレスガルド」</color>の\nスタッフ最大2体に<color=#AC83FD>「ドリンク」</color>を付与。\nそれらのスタッフの満足度+<color=#4CF37B>10%</color>": [
+    "add-on/bar",
+    "ui_texts"
+  ],
+  "ランダムな<color=#AC83FD>「ミレスガルド」</color>の\nスタッフ最大3体に<color=#AC83FD>「ドリンク」</color>を付与。\nそれらのスタッフの満足度+<color=#4CF37B>20%</color>": [
+    "add-on/bar",
+    "ui_texts"
+  ],
+  "ランダムな<color=#AC83FD>「千國聯合」</color>の\nスタッフ最大2体に<color=#AC83FD>「ドリンク」</color>を付与。\nそれらのスタッフの満足度+<color=#4CF37B>10%</color>": [
+    "add-on/bar",
+    "ui_texts"
+  ],
+  "ランダムな<color=#AC83FD>「千國聯合」</color>の\nスタッフ最大3体に<color=#AC83FD>「料理」</color>を付与。\nそれらのスタッフの満足度+<color=#4CF37B>20%</color>": [
+    "add-on/bar",
+    "ui_texts"
+  ],
+  "ランダムな味方{0}体を蘇生 / 味方全体に攻撃力【<color=#4cf37b>{1}</color>】で【{2}HIT / {3}％】の回復": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ランダムな敵{0}体に【{1}HIT / 合計<color=#4CF37B>{2}%</color>】ダメージを与える攻撃を{3}回行う": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ランダムな敵{0}体に【{1}HIT / 合計{2}%】ダメージを与える攻撃を{3}回行う": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ランダムな敵に範囲攻撃を行う。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ラヴェリア": [
+    "m_plans",
+    "names"
+  ],
+  "リタ": [
+    "names",
+    "ui_texts"
+  ],
+  "リリース記念SSR確定ガチャ": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "リリース記念ミッション": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "リリース記念ミッションパス": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ルカ": [
+    "names",
+    "ui_texts"
+  ],
+  "ルクスノヴァ": [
+    "m_dictionary_worlds",
+    "names",
+    "ui_texts"
+  ],
+  "ルクスノヴァSTAGE{0}": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ルクスノヴァが発行する勲章。\n{0}個集めて「アイテム一覧」で使用することでルクスノヴァ所属のSSRの探索者を加入させることができる。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ルシータピックアップガチャ": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ルディア": [
+    "m_dictionary_non_player_characters",
+    "m_plans",
+    "names",
+    "ui_texts"
+  ],
+  "レイゼリア": [
+    "m_dictionary_non_player_characters",
+    "names"
+  ],
+  "レッスンの成果を試す時": [
+    "m_gacha_group_movies",
+    "m_novel_characters"
+  ],
+  "レヴィエーヌ": [
+    "names",
+    "ui_texts"
+  ],
+  "レヴィエーヌ獲得記念\n【レヴィエーヌ限界突破アイテム付き！】": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "レヴィエーヌ＆ディアーナマルチピックアップガチャ": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ログインボーナスの報酬です。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ロジー": [
+    "m_dictionary_non_player_characters",
+    "names"
+  ],
+  "ロストシグナル「深淵」": [
+    "add-on/materials",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "ローザ": [
+    "names",
+    "ui_texts"
+  ],
+  "ワーカーベスト": [
+    "names",
+    "ui_texts"
+  ],
+  "ヴィーラ": [
+    "names",
+    "ui_texts"
+  ],
+  "ヴィーラお姉ちゃんの筆下ろし": [
+    "m_gacha_group_movies",
+    "m_novel_characters"
+  ],
+  "一定確率で発生する、威力を秘めた特殊な攻撃。\n会心は相手の急所を突いて大ダメージを与え、\n連撃は息をもつかせぬ素早い追撃を見舞う。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "一括で受け取れるプレゼントは{0}件までです。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "一般的な遠距離攻撃用の武器。様々な絡め手と\n併用される。流れるような{0}連射は空飛ぶ敵を\n攻撃できるが、対象と一定の距離が必要になる。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "一部の探索者が持つアビリティや装備の恩恵に\nよって、通常よりも多くのドロップアイテム\nを戦場で獲得できるようになる。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "一部の行動が阻害された状態": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "万物を照らす光の元素が意志を持ち具現化した姿。\n厄災による影響か非常に好戦的で近くにいる\n人類を狙い、閃光で貫こうとしてくる。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "万物を飲み込む闇の元素が意志を持ち具現化した姿。\n厄災による影響か非常に好戦的で近くにいる\n人類を狙い、全ての輝きを奪おうとしてくる。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "上級技能元素(アシスト)": [
+    "add-on/materials",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "与ダメージDOWN": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "与ダメージUP": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "中級技能元素(アシスト)": [
+    "add-on/materials",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "中級技能元素(アシスト) ×{0}": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "中級技能元素(バック) ×{0}": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "中級技能元素(フロント) ×{0}": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "主人公との思い出が指輪の形状で結晶化したもの。\n「キャラ詳細」の「能力強化」で使用することで\nパラメータを強化する絆ptを1pt獲得できる。": [
+    "add-on/items",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "二足の草鞋で稼ぎましょうっ！": [
+    "m_novel_characters",
+    "m_preregist_taverns"
+  ],
+  "交換所で1回交換する": [
+    "m_missions",
+    "ui_texts"
+  ],
+  "交換所で20回交換する": [
+    "m_missions",
+    "ui_texts"
+  ],
+  "人型の厄災": [
+    "m_chapter_quests",
+    "m_novel_mains",
+    "names"
+  ],
+  "人型厄災": [
+    "m_dictionary_non_player_characters",
+    "names"
+  ],
+  "今後、浸食率の上昇量が5増加し、浸食率の減少量は5減少する。": [
+    "m_nether_code_category_skills",
+    "m_nether_codes"
+  ],
+  "今後、浸食率の上昇量が5減少し、浸食率の減少量は5増加する。": [
+    "m_nether_code_category_skills",
+    "m_nether_codes"
+  ],
+  "今日はうまく話せた気がするぞ！\n森に帰って、焚き火に報告だ！": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "他の部隊が担当する厄災の迎撃を代理で引き受けた証。\n「迎撃戦」で追加の厄災を発生させることができる。": [
+    "add-on/items",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "以下のアイテムを受け取りました。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "以下のアイテムを購入しました。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "以下のプレゼントを受け取りました。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "任務完了だ\n飯でも食いにいくか": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "会心ダメージ倍率DOWN": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "会心ダメージ倍率UP": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "会心ヒット時、ランダムで{0}体に斬撃で追撃を行う": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "会心時、自身に【{0}%】の確率で回避率UP【{1}% / {2}秒】を付与": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "会心率DOWN": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "会心率UP": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "伝説の鳳凰を模した弓\n敵を倒すことで紋章：情熱の力を高める。": [
+    "add-on/items",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "住民に避難勧告を！": [
+    "m_chapter_quests",
+    "m_novel_mains"
+  ],
+  "何でも売ってる旅商人": [
+    "m_character_profiles",
+    "ui_texts"
+  ],
+  "作られし愛娘": [
+    "m_character_profiles",
+    "ui_texts"
+  ],
+  "侵食されし宝石": [
+    "add-on/materials",
+    "add-on/system"
+  ],
+  "侵食されし歯車": [
+    "add-on/materials",
+    "add-on/system"
+  ],
+  "侵食されし結晶": [
+    "add-on/materials",
+    "add-on/system"
+  ],
+  "侵食キューブ": [
+    "add-on/materials",
+    "add-on/system"
+  ],
+  "信仰": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "俺たちはもう仲間だろう": [
+    "m_chapter_quests",
+    "m_novel_mains"
+  ],
+  "個室2<br>に配置": [
+    "add-on/bar",
+    "ui_texts"
+  ],
+  "個室3<br>に配置": [
+    "add-on/bar",
+    "ui_texts"
+  ],
+  "偉大なる探索者の力を秘めた特別な技能元素。\n「キャラ詳細」でアビリティの強化に使用できる。\nイベントなどで獲得できる。": [
+    "add-on/items",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "催眠石が見せたもの": [
+    "m_chapter_quests",
+    "m_novel_mains"
+  ],
+  "催眠石の調査": [
+    "m_chapter_quests",
+    "m_novel_mains"
+  ],
+  "傷ついた心身を癒す癒し手たちの持つ魔導書。\n単体の味方のHPを回復する回復魔法を使用する。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "元（？）盗賊の採掘娘": [
+    "m_character_profiles",
+    "ui_texts"
+  ],
+  "光の精霊と契約したエルフの弓使い。\nその矢は、敵を光で包み込む。\n森の守護者として、侵入者を決して許さない。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "光の魔道士": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "光り輝く液体を吐き出す粘液状のモンスター。\nその体液に触れた者は電撃が走り、痺れ状態になる。\n油断すれば一瞬で命を落とすことになるだろう。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "光を操る修道士。\nその手は、聖なる光を注ぎ、生命力を輝かせる。\n光の力は、彼に浄化の癒しをもたらす。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "光を操る魔族の女魔法使い。\nその魔法は雷撃を生み、敵を撃ち焦がす。\n彼女の杖は、戦場を焦土と化す。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "光を操る魔法使い。\nその杖は、光の矢を放ち、敵を撃ち抜く。\n戦場を焦土と化すまで、彼の攻撃は止まらない。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "光属性の扱いに長けた盗賊。\nいかなる環境下においても獲物を諦めない\n厄介なポジティブさを持っている。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "光属性の扱いに非常に長けた盗賊のリーダー。\nあらゆる状況下で常に獲物をあきらめない\n執拗なまでのポジティブさを持っている。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "光属性の敵に対して与ダメージDOWN": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "光属性の敵に対して与ダメージUP": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "光輝の矢を放つ小鬼。\nその狡猾な策略は、\n獲物を欺く光のように眩しい。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "光輝の誓願・招集": [
+    "add-on/materials",
+    "add-on/system"
+  ],
+  "全状態異常成功率DOWN": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "全状態異常成功率UP": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "全状態異常耐性DOWN": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "全状態異常耐性UP": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "全身が石のように硬化する状態異常。\n行動不能となり、被ダメージも大きくなる。\n攻撃を受けるとこの状態は解除される。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "全身が麻痺し一定時間行動不能になる状態異常。\n毒によるもの、魔術的なもの、精神的なものなど\n様々な原因が存在するがどれも致命的。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "内容の濃い報告書": [
+    "m_chapter_quests",
+    "m_novel_mains"
+  ],
+  "再生": [
+    "m_chapter_quests",
+    "m_novel_mains"
+  ],
+  "冷気によって肉体が凍てつく状態異常。\nスキルチャージと連撃率が低下する。\nあらゆる行動が著しく制限されてしまう。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "冷気を帯びた液体を吐き出す粘液状のモンスター。\nその体液に触れた者は凍傷を負う。\n油断すれば一瞬で凍り漬けにされるだろう。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "凍える前線基地": [
+    "m_chapter_quests",
+    "m_novel_mains"
+  ],
+  "凍てつく花弁を持つ食人植物。\nその牙は鋭く獲物を逃さない。\n口から吐き出す冷気は、すべてを凍結させる。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "凍結": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "凍結が【{0}秒 / 成功率:{1}%】に変化": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "凍結成功率DOWN": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "凍結成功率UP": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "凍結状態の敵に対して与ダメージDOWN": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "凍結状態の敵に対して与ダメージUP": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "凍結耐性DOWN": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "凍結耐性UP": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "初心者ミッション全クリア記念\n【{0}個でSSR獲得できるアイテム付き！】": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "初級ミレスガルド勢力バフ": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "初級技能元素(アシスト) ×{0}": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "初級技能元素(バック) ×{0}": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "初級技能元素(フロント) ×{0}": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "前方範囲内にいる敵全体に【{0}HIT / 合計<color=#4CF37B>{1}%</color>】ダメージ": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "前方範囲内にいる敵全体に【{0}HIT / 合計{1}%】ダメージ": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "前線で直接モンスターと戦う探索者の総称。\n近接戦闘だけでなく、仲間たちの盾となって\n戦線を維持する役割を担う。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "勢力クエスト【エルドラーナSTAGE3】をクリアする": [
+    "m_missions",
+    "ui_texts"
+  ],
+  "勢力クエスト【ペルディオンSTAGE3】をクリアする": [
+    "m_missions",
+    "ui_texts"
+  ],
+  "勢力クエスト【ミレスガルドSTAGE3】をクリアする": [
+    "m_missions",
+    "ui_texts"
+  ],
+  "千国連合": [
+    "m_dictionary_worlds",
+    "names"
+  ],
+  "千國聯合が発行する勲章。\n{0}個集めて「アイテム一覧」で使用することで千國聯合所属のSSRの探索者を加入させることができる。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "千國聯合に生息する「竜」の牙を用いた手甲\n紋章：衝撃を味方に付与することができる。": [
+    "add-on/items",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "千國聯合の女の子たちに人気のプレゼント。\n「交流」で千國聯合の女の子限定で絆Lvを上げる\nことができる。主にお店の営業で獲得できる。": [
+    "add-on/items",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "半なまの英雄": [
+    "m_character_profiles",
+    "ui_texts"
+  ],
+  "厄災が出現！\\n前線基地のすぐそばです！\\n司令官、迎撃してください！": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "厄災が目前まで迫っています！\\n前線基地到達前に、総力を挙げて迎撃を！": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "厄災のようなボスとの戦闘では敵を知ることも\n重要だ。特に味方や敵に付与されている効果は\n攻略の大きなヒントが隠されている場合がある。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "厄災のエネルギーが急上昇しています！\\n強力な攻撃に注意してください！": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "厄災の体勢が大きく崩れました！\\n一気に畳みかけましょう、司令官！": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "厄災の習性": [
+    "m_chapter_quests",
+    "m_novel_mains"
+  ],
+  "厄災の迎撃": [
+    "m_dictionary_worlds",
+    "names"
+  ],
+  "厄災特殊個体を撃破したので厄災Lvが上昇しました。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "受取期限が過ぎたプレゼントは自動的に消去されます。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "叡智の書": [
+    "names",
+    "ui_texts"
+  ],
+  "古の魔道士": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "古代の魔導書を操る魔道士。\nその瞳に宿るは、失われた古代の叡智。\n万象を原初の状態へと蘇らせる。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "司令官Lv10に到達する": [
+    "m_missions",
+    "ui_texts"
+  ],
+  "司令官Lv5に到達する": [
+    "m_missions",
+    "ui_texts"
+  ],
+  "名匠の剣": [
+    "names",
+    "ui_texts"
+  ],
+  "名工の黒ツルハシ": [
+    "names",
+    "ui_texts"
+  ],
+  "呪われし力を持つ鋼鉄の守護者。\nその大剣は、侵入者を断ち切り、\nその鎧は、決して砕けることはない。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "呪われた花弁を持つ食人植物。\nその牙は鋭く獲物を逃さない。\n口から吐き出す瘴気は、すべてを腐敗させる。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "呪縛の暗黒騎士": [
+    "m_character_profiles",
+    "ui_texts"
+  ],
+  "呪詛の矢を放つ小鬼。\nその邪悪な影は、\n獲物を蝕む闇のように深い。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "味方を継続的に回復する。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "味方フロントからランダム{0}体に会心率UP【<color=#4CF37B>{1}%</color> / {2}秒】を付与": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "味方フロントからランダム{0}体に会心率UP【{1}% / {2}秒】を付与": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "味方全体に攻撃力UP【<color=#4cf37b>{0}</color>％ / {1}秒】を付与": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "味方全体に攻撃力【<color=#4cf37b>{0}</color>】で【{1}HIT / {2}％】の回復": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "味方全体に攻撃力【<color=#4cf37b>{0}</color>】で【{1}HIT / {2}％】の回復 / 味方全体からランダムに{3}つの状態異常を解除": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "味方全体に通常回復の【<color=#4CF37B>{0}%</color>】回復": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "味方全体に通常回復の【{0}%】回復": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "味方全体に防御力UP【<color=#4cf37b>{0}</color>％ / {1}秒】を付与": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "味方全体の炎上耐性が【{100}】上昇": [
+    "ability_descriptions",
+    "m_ability_details"
+  ],
+  "味方全体の炎上耐性が【{20}】上昇": [
+    "ability_descriptions",
+    "m_ability_details"
+  ],
+  "味方全体の炎上耐性が【{28}】上昇": [
+    "ability_descriptions",
+    "m_ability_details"
+  ],
+  "味方全体の炎上耐性が【{37}】上昇": [
+    "ability_descriptions",
+    "m_ability_details"
+  ],
+  "味方全体の炎上耐性が【{46}】上昇": [
+    "ability_descriptions",
+    "m_ability_details"
+  ],
+  "味方全体の炎上耐性が【{55}】上昇": [
+    "ability_descriptions",
+    "m_ability_details"
+  ],
+  "味方全体の炎上耐性が【{64}】上昇": [
+    "ability_descriptions",
+    "m_ability_details"
+  ],
+  "味方全体の炎上耐性が【{73}】上昇": [
+    "ability_descriptions",
+    "m_ability_details"
+  ],
+  "味方全体の炎上耐性が【{82}】上昇": [
+    "ability_descriptions",
+    "m_ability_details"
+  ],
+  "味方全体の炎上耐性が【{91}】上昇": [
+    "ability_descriptions",
+    "m_ability_details"
+  ],
+  "味方全員の石化耐性が【{1}】上昇": [
+    "ability_descriptions",
+    "m_ability_details"
+  ],
+  "命中率DOWN": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "命中率UP": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "品行方正なビキニ兵士\r": [
+    "m_character_profiles",
+    "ui_texts"
+  ],
+  "喪失": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "喪失の指輪": [
+    "add-on/system",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "喪失成功率DOWN": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "喪失成功率UP": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "喪失状態の敵に対して与ダメージDOWN": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "喪失状態の敵に対して与ダメージUP": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "喪失耐性DOWN": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "喪失耐性UP": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "回复倍率变为【<color=#4CF37B>{0}%</color>】 / 为目标中火・水・土属性我方全体附加纹章：热情【{1}】": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "回复倍率变为【{0}%】 / 为目标中火・水・土属性我方全体附加纹章：热情【{1}】": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "回復倍率が【<color=#4CF37B>{0}%</color>】に変化 / 対象の火・水・土属性の味方全体に<color=#FF5050>紋章：情熱</color>を【{1}】付与": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "回復倍率が【{0}%】に変化 / 対象の火・水・土属性の味方全体に<color=#FF5050>紋章：情熱</color>を【{1}】付与": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "回復量DOWN": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "回復量UP": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "回避率DOWN": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "回避率UP": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "土の精霊と契約した魔族の女魔法使い。\nその力は大地を揺るがす。\n彼女の杖は、戦場を混乱に陥れる。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "土属性の扱いに長けた盗賊。\nいかなる環境下においても獲物を追い続ける\n厄介な根気を持っている。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "土属性の扱いに非常に長けた盗賊のリーダー。\nあらゆる状況下で常に獲物を追い続ける\n執拗なまでの根気を持っている。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "土属性の敵に対して与ダメージDOWN": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "土属性の敵に対して与ダメージUP": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "地の魔道士": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "壊れてしまったかもしれません": [
+    "m_gacha_group_movies",
+    "m_novel_characters"
+  ],
+  "壮大なる大地の元素が意志を持ち具現化した姿。\n厄災による影響か非常に好戦的で近くにいる\n人類を狙い、押しつぶそうとしてくる。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "変幻自在の金属生命体。\nその体液は、あらゆる金属を腐食させる。\n油断すれば武器が溶けてしまうだろう。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "大地の力を宿した森の捕食者。\nその咆哮は大地を揺るがし、\n鋭い牙で骨を砕く。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "大地の力を纏いし守護者。\nその片手剣は、岩をも砕く。\n兜の下に隠された素顔は、決して揺るがない。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "大地の力を纏った女戦士。\nその一撃は、岩をも砕く。\n大穴の発見物を巡る戦いは、避けられない運命となる。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "大地の精霊と契約したエルフの弓使い。\nその矢は、大地の力を凝縮した岩の矢となり敵を粉砕する。\n森の守護者として、侵入者を決して許さない。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "大地の精霊を操る修道士。\nその手は、大地の恵みを与え、生命力を育む。\n大地の力は、彼に回復の滋養をもたらす。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "大地の魔石を動力源とする岩の人造人間。\n両腕から繰り出される粉砕の拳は、\nすべてを瓦礫と化す。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "大地を操る魔法使い。\nその杖は、岩の弾丸を放ち、敵を粉砕する。\n戦場を瓦礫の山に変えるまで、彼の攻撃は止まらない。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "大穴からの謎の声": [
+    "m_chapter_quests",
+    "m_novel_mains"
+  ],
+  "大穴では様々な装備品が出現する。\n伝説に謡われる太古の秘宝や、異世界から\n流れ着いた未知の兵器まで多種多様。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "大穴で発見されたありふれた木材。\n「施設」を強化するアップグレードに使用できる。\n主に探索隊の報酬として獲得できる。": [
+    "add-on/facility",
+    "add-on/items"
+  ],
+  "大穴で発見されたありふれた鉱石。\n「施設」を強化するアップグレードに使用できる。\n主に探索隊の報酬として獲得できる。": [
+    "add-on/facility",
+    "add-on/items"
+  ],
+  "大穴で発見されたありふれた骨材。\n「施設」を強化するアップグレードに使用できる。\n主に探索隊の報酬として獲得できる。": [
+    "add-on/facility",
+    "add-on/items"
+  ],
+  "大穴で発見されためずらしい木材。\n「施設」を強化するアップグレードに使用できる。\n主に探索隊の報酬として獲得できる。": [
+    "add-on/facility",
+    "add-on/items"
+  ],
+  "大穴で発見されためずらしい鉱石。\n「施設」を強化するアップグレードに使用できる。\n主に探索隊の報酬として獲得できる。": [
+    "add-on/facility",
+    "add-on/items"
+  ],
+  "大穴で発見されためずらしい骨材。\n「施設」を強化するアップグレードに使用できる。\n主に探索隊の報酬として獲得できる。": [
+    "add-on/facility",
+    "add-on/items"
+  ],
+  "大穴で発見された貴重な木材。\n「施設」を強化するアップグレードに使用できる。\n主に探索隊の報酬として獲得できる。": [
+    "add-on/facility",
+    "add-on/items"
+  ],
+  "大穴で発見された貴重な鉱石。\n「施設」を強化するアップグレードに使用できる。\n主に探索隊の報酬として獲得できる。": [
+    "add-on/facility",
+    "add-on/items"
+  ],
+  "大穴で発見された貴重な骨材。\n「施設」を強化するアップグレードに使用できる。\n主に探索隊の報酬として獲得できる。": [
+    "add-on/facility",
+    "add-on/items"
+  ],
+  "大穴で見つかるありふれた雑多な物資。\nショップの「交換所」で施設の強化に必要なアイテムなどと交換できる。主に探索隊の報酬として獲得できる。": [
+    "add-on/facility",
+    "add-on/items"
+  ],
+  "大穴で見つかるめずらしいが雑多な物資。\nショップの「交換所」で施設の強化に必要なアイテムなどと交換できる。主に探索隊の報酬として獲得できる。": [
+    "add-on/facility",
+    "add-on/items"
+  ],
+  "大穴で見つかる貴重だが雑多な物資。\nショップの「交換所」で施設の強化に必要なアイテムなどと交換できる。主に探索隊の報酬として獲得できる。": [
+    "add-on/facility",
+    "add-on/items"
+  ],
+  "大穴の中にいるときの時間の流れを操作することができる魔道具。「探索隊」で使用することで1時間分の探索報酬を受け取ることができる。": [
+    "add-on/items",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "大穴の探索が進み<br>「光差す庭園の調査」<br>が周回可能になりました。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "大穴の探索が進み<br>「噴煙の山峯の調査」<br>が周回可能になりました。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "大穴の探索が進み<br>「地殻の裂け目の調査」<br>が周回可能になりました。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "大穴の探索が進み<br>「天上の箱庭の調査」<br>が周回可能になりました。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "大穴の探索が進み<br>「昏迷の砂丘の調査」<br>が周回可能になりました。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "大穴の探索が進み<br>「枯渇平原の調査」<br>が周回可能になりました。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "大穴の探索が進み<br>「溶岩河川の調査」<br>が周回可能になりました。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "大穴の探索が進み<br>「火口洞穴の調査」<br>が周回可能になりました。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "大穴の探索が進み<br>「灼熱の岩窟の調査」<br>が周回可能になりました。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "大穴の探索が進み<br>「異形の叢の調査」<br>が周回可能になりました。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "大穴の探索が進み<br>「空中都市の調査」<br>が周回可能になりました。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "大穴の探索が進み<br>「遥けき理想郷の調査」<br>が周回可能になりました。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "大穴の探索が進み<br>「零度の封域の調査」<br>が周回可能になりました。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "大穴の探索が進み<br>「魔の森の調査」<br>が周回可能になりました。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "大穴の探索が進み<br>「黄昏の回廊の調査」<br>が周回可能になりました。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "大穴の探索を助けるアシストたちの標準装備。\n彼らは直接戦闘には参加しないが、パラメータの\n一部を他の探索者に加算することができる。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "天使のタリスマン": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "天使のモニュメント": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "天使の厄災": [
+    "m_chapter_quests",
+    "m_novel_mains",
+    "names"
+  ],
+  "天使の厄災に出撃します。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "天才兼変態科学者の知能で\nこの前線基地に特別な施設を\n建ててあげましょう！": [
+    "m_part_voices",
+    "ui_texts"
+  ],
+  "天空の魔導書を操る魔道士。\nその瞳に宿るは、全てを浄化する聖光。\n陽光のような輝きで傷を癒やす。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "天翔のナックル": [
+    "names",
+    "ui_texts"
+  ],
+  "太陽の力を凝縮した精薬。\n「メインストーリー」の周回クエストなどで必要となる\nスタミナを大きく回復する。": [
+    "add-on/items",
+    "add-on/system"
+  ],
+  "太陽の力を凝縮した精薬。\n「メインストーリー」の周回クエストなどで必要となる\nスタミナを少し回復する。": [
+    "add-on/items",
+    "add-on/system"
+  ],
+  "女の子たちに感謝を込めて贈るプレゼント。\n「交流」画面で女の子限定で絆Lvを上げることができる。主にルディアのお店の営業で獲得できる。": [
+    "add-on/items",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "女海賊キャプテン・ルシータ": [
+    "m_gacha_group_movies",
+    "m_novel_characters"
+  ],
+  "姫騎士オタクの黒魔導士": [
+    "m_character_profiles",
+    "ui_texts"
+  ],
+  "嫣然の暗殺者": [
+    "m_character_profiles",
+    "ui_texts"
+  ],
+  "宝石の原石": [
+    "names",
+    "ui_texts"
+  ],
+  "宝石の魔女": [
+    "m_character_profiles",
+    "ui_texts"
+  ],
+  "対象が{0}体に変化 / <color=#FF5050>紋章：情熱</color>が{1}以上のとき、対象にスキルチャージ効率UP【<color=#4CF37B>{2}%</color> / {3}秒】を付与": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "対象が{0}体に変化 / <color=#FF5050>紋章：情熱</color>が{1}以上のとき、対象にスキルチャージ効率UP【{2}% / {3}秒】を付与": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "岩の鱗を持つ大トカゲ。\n口から泥を吐き、敵を土の下に埋める。\nその姿は、大地の怒りを体現したかのよう。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "岩盤のハンマーを振るうドワーフ。\n性格は岩のように頑固、\nその一撃は大地を粉砕する。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "岩石の矢を放つ小鬼。\nその屈強な腕力は、\n獲物を貫く岩のように硬い。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "巨大な両手持ちの重量武器。\n攻守のバランスに優れた探索者が好む傾向にある。\n地上の敵に重い一撃を浴びせる。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "巨大な合成魔獣。岩山のような固い角を持つ。\n一突きで大地を揺るがし、\n対峙者を奈落の底へと突き落とす。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "巨大な錨を振り回す、牛頭人身のモンスター。\nその荒波のような攻撃はすべてを飲み込み、\n戦場を凍てつかせる。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "巨大ハンマーを叩きつける牛頭人身のモンスター。\nその一撃は影をも打ち砕き、\nすべてを闇に染める。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "幻獣が遺した角。邪悪を祓い、奇跡を起こすと言われる。\n「施設」を強化する特別なアップグレードに使用できる。\n": [
+    "add-on/facility",
+    "add-on/items"
+  ],
+  "幻獣の角": [
+    "names",
+    "ui_texts"
+  ],
+  "幻獣の角や体毛を使って作られた弓\n実用性と美しさを両立している。": [
+    "add-on/items",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "廃墟と化した街": [
+    "m_chapter_quests",
+    "m_novel_mains"
+  ],
+  "強靭な鉄槌を振るう、牛頭人身のモンスター。\nその豪腕は、いかなる盾も打ち砕き、\n容赦なく敵を粉砕する。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "彼女のためにできること": [
+    "m_gacha_group_movies",
+    "m_novel_characters"
+  ],
+  "彼女のダンスに足りないもの": [
+    "m_gacha_group_movies",
+    "m_novel_characters"
+  ],
+  "後方から遠隔攻撃や回復を行う探索者の総称。\n魔法、弓、銃など、それぞれの得意とする技を、\n安全な位置から放つ役割を担う。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "心を繋げて": [
+    "m_novel_characters",
+    "m_preregist_taverns"
+  ],
+  "怨魔の大剣": [
+    "add-on/system",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "恵体の不良警官": [
+    "m_character_profiles",
+    "ui_texts"
+  ],
+  "悪戯はやめてください御主人様": [
+    "m_novel_characters",
+    "m_preregist_taverns"
+  ],
+  "情欲の厄災、迎撃成功です！！": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "情欲の厄災に出撃します。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "情欲の厄災の討伐依頼が発行されています！": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "情熱のマナクリスタル【剛力】": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "情熱のマナクリスタル【崩壊】": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "情熱のマナクリスタル【復活】": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "憧れの人はあなた": [
+    "m_novel_characters",
+    "m_preregist_taverns"
+  ],
+  "我ながら素晴らしい仕事ぶりだわ\nレイゼリア様にもちゃんと報告を\n忘れないこと！": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "戦闘には直接参加せず、探索の補助や支援を行う\n探索者の総称。アイテムや魔法などを駆使し、\n過酷な戦闘を補助する役割を担う。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "戦闘終了です\nふふふ、やったー！": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "戦闘継続不可能。敗因を分析し、\n次回の勝率を向上させます": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "戦闘開始時、最大HPが【10%】上昇する": [
+    "m_nether_codes",
+    "ui_texts"
+  ],
+  "戦闘開始時、最大HPが【20%】上昇する": [
+    "m_nether_codes",
+    "ui_texts"
+  ],
+  "戦闘開始時に浸食率30%以下の時、光・闇・無属性のキャラの攻撃力が【50%】上昇する": [
+    "m_nether_codes",
+    "ui_texts"
+  ],
+  "戦闘開始時に浸食率30%以下の時、火・水・土属性のキャラのスキルを【5】チャージ": [
+    "m_nether_codes",
+    "ui_texts"
+  ],
+  "戦闘開始時に浸食率50%以上の時、火・水・土属性のキャラのマナを【5】チャージ": [
+    "m_nether_codes",
+    "ui_texts"
+  ],
+  "戦闘開始時に浸食率50%以下の時、光・闇・無属性のキャラのマナを【4】チャージ": [
+    "m_nether_codes",
+    "ui_texts"
+  ],
+  "戦闘開始時に浸食率70%以上の時、光・闇・無属性のキャラのスキルを【6】チャージ": [
+    "m_nether_codes",
+    "ui_texts"
+  ],
+  "戦闘開始時に浸食率70%以上の時、光・闇・無属性のキャラのスキルチャージ効率が【60%】上昇する": [
+    "m_nether_codes",
+    "ui_texts"
+  ],
+  "戦闘開始時に浸食率70%以上の時、光・闇・無属性のキャラの防御力が【60%】上昇する": [
+    "m_nether_codes",
+    "ui_texts"
+  ],
+  "戦闘開始時に浸食率70%以上の時、火・水・土属性のキャラのマナを【3】チャージ": [
+    "m_nether_codes",
+    "ui_texts"
+  ],
+  "戦闘開始時に浸食率70%以上の時、火・水・土属性のキャラの防御力が【60%】上昇する": [
+    "m_nether_codes",
+    "ui_texts"
+  ],
+  "所持している装備の数が上限に達しています。<br>所持枠に空きを作ってから実行して下さい。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "所持している装備の数が上限に達しました。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "拳や体術を用いる戦闘を助ける武器。回避や\n連撃が得意な探索者が愛用する。地上の敵に\n{0}連撃を行い、回避時には後方にステップする。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "挑発": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "採掘クリスタル": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "採掘目標": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "探索クエストを30回クリアする": [
+    "m_missions",
+    "ui_texts"
+  ],
+  "探索クエストを9回クリアする": [
+    "m_missions",
+    "ui_texts"
+  ],
+  "探索報酬を1回受け取る": [
+    "m_missions",
+    "ui_texts"
+  ],
+  "探索報酬を4回受け取る": [
+    "m_missions",
+    "ui_texts"
+  ],
+  "探索報酬を{0}回受け取る": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "探索者の証。\n50個集めて「アイテム一覧」で使用することで\nSR以上の探索者を加入させることができる。": [
+    "add-on/items",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "探索者の証。\n50個集めて「アイテム一覧」で使用することで\nSSRの探索者を加入させることができる。": [
+    "add-on/items",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "探索者はそれぞれ装備できる武器によって\n戦闘での行動や位置取りが異なる。\n支援や回復などその内容は様々。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "探索者は火、水、土、光、闇、無のいずれかの\n属性を持つ。敵の苦手な属性を的確に見極める\nことが大穴攻略の鍵となる。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "探索隊": [
+    "m_dictionary_worlds",
+    "ui_texts"
+  ],
+  "探索隊Aがランク{0}のコモン 鋼鉄の大剣を発見！": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "探索隊Aがランク{0}のコモン 鋼鉄の大剣を発見！\n": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "探索隊Aがランク{0}のコモン 鳳炎の杖を発見！": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "探索隊Aがランク{0}のコモン 鳳炎の杖を発見！\n": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "探索隊Bがランク{0}のエピック 聖者のマントを発見！": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "探索隊Bがランク{0}のエピック 聖者のマントを発見！\n": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "探索隊Bがランク{0}のコモン アストラルブラスターを発見！\n探索隊Aがランク{1}のコモン 鋼鉄の大剣を発見！": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "探索隊Bがランク{0}のコモン ハンティングライフルを発見！": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "探索隊Bがランク{0}のコモン ハンティングライフルを発見！\n": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "探索隊Bがランク{0}のコモン 兵士の剣を発見！\n探索隊Aがランク{1}のコモン 鳳炎の杖を発見！": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "探索隊Bがランク{0}のコモン 名匠の剣を発見！": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "探索隊Bがランク{0}のコモン 名匠の剣を発見！\n": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "探索隊Bがランク{0}のコモン 魔石の杖を発見！\n": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "探索隊Cがランク{0}のコモン アストラルブラスターを発見！": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "探索隊Cがランク{0}のコモン アストラルブラスターを発見！\n": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "探索隊Cが食人花の花を発見！": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "探索隊Cが食人花の花を発見！\n": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "揺らぐ魔力を見定め、固定するためのレンズ。\n「パーティ」の「装備」から鑑定が必要な装備品の鑑定を行うことができる。": [
+    "add-on/items",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "攻撃優先度変更（敵タイプ）": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "攻撃力DOWN": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "攻撃力UP": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "攻撃範囲増加": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "教授と助手": [
+    "m_chapter_quests",
+    "m_novel_mains"
+  ],
+  "敵{0}体を中心とした範囲内にいる敵全体に【{1}HIT / 合計<color=#4CF37B>{2}%</color>】ダメージ / 対象に凍結【<color=#4CF37B>{3}秒</color> / 成功率:{4}%】を付与": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "敵{0}体を中心とした範囲内にいる敵全体に【{1}HIT / 合計{2}%】ダメージ / 対象に凍結【{3}秒 / 成功率:{4}%】を付与": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "敵が{0}体以上いるとき自動で発動": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "敵がアサルトモードに突入したとき": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "敵に心を奪われ、戦意を削がれる状態異常。\n通常攻撃とスキルが一定確率で不発となる。\nあらゆる行動に迷いが生じてしまう。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "敵全体に攻撃力【<color=#4cf37b>{0}</color>】で【{1}HIT / {2}％】のダメージ": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "敵全体に攻撃力【<color=#4cf37b>{0}</color>】で【{1}HIT / {2}％】のダメージ / 敵全体にノックバックLv{3}": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "敵全体に攻撃力【<color=#4cf37b>{0}</color>】で【{1}HIT / {2}％】のダメージ / 毒【{3}秒】を付与": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "敵全体に攻撃力【<color=#4cf37b>{0}</color>】で【{1}HIT / {2}％】のダメージ / 防御力DOWN【{3}％ / {4}秒】を付与": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "敵全体に石化【<color=#4CF37B>{0}秒</color> / 成功率:{1}%】を付与": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "敵全体に石化【{0}秒 / 成功率:{1}%】を付与": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "敵勢力の無力化を確認。\nご主人様の強さを証明しました": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "新しいクエストが解放されました": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "新しいストーリーが解放されました。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "新たな楽しみ": [
+    "m_gacha_group_movies",
+    "m_novel_characters"
+  ],
+  "施設の「兵器工場」の壁上・基地スキルの強化をLv3にアップグレードする": [
+    "m_missions",
+    "ui_texts"
+  ],
+  "施設の「研究所」のマナクリスタル研究をLv3にアップグレードする": [
+    "m_missions",
+    "ui_texts"
+  ],
+  "施設の「鍛冶屋」の装備点検：体力をLv2にアップグレードする": [
+    "m_missions",
+    "ui_texts"
+  ],
+  "施設の研究所で「シンクロ研究」を実行して、レベルシンクロを解放する": [
+    "m_missions",
+    "ui_texts"
+  ],
+  "旦那さま、 耳寄り情報ですぅ♪\nなんと、とっておきの掘り出し物が！\n今買わなきゃ損ですよぉ～？": [
+    "m_part_voices",
+    "ui_texts"
+  ],
+  "早撃ち魔法使い": [
+    "m_character_profiles",
+    "ui_texts"
+  ],
+  "時間経過でダメージを受ける状態": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "暁光の杖": [
+    "add-on/system",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "最もHPが高い敵{0}体に【{1}HIT / 合計<color=#4CF37B>{2}%</color>】ダメージ": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "最もHPが高い敵{0}体に【{1}HIT / 合計{2}%】ダメージ": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "最もHP割合が高い敵{0}体に【{1}HIT / 合計<color=#4CF37B>{2}%</color>】ダメージ / 魅了【<color=#4CF37B>{3}秒</color> / 成功率:{4}%】を付与": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "最もHP割合が高い敵{0}体に【{1}HIT / 合計{2}%】ダメージ / 魅了【{3}秒 / 成功率:{4}%】を付与": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "最も近い敵{0}体に【{1}HIT / 合計<color=#4CF37B>{2}%</color>】ダメージ": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "最も近い敵{0}体に【{1}HIT / 合計<color=#4CF37B>{2}%</color>】ダメージ / ノックバック【Lv{3}】": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "最も近い敵{0}体に【{1}HIT / 合計{2}%】ダメージ": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "最も近い敵{0}体に【{1}HIT / 合計{2}%】ダメージ / ノックバック【Lv{3}】": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "最も近い敵{0}体に【{1}HIT / 合計{2}%】ダメージ / 防御力DOWN【{3}% / {4}秒】を付与": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "最も近い敵を中心とした範囲内にいる敵全体に【{0}HIT / 合計<color=#4CF37B>{1}%</color>】ダメージ": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "最も近い敵を中心とした範囲内にいる敵全体に【{0}HIT / 合計{1}%】ダメージ": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "最も近い敵を中心とした範囲内にいる敵全体に攻撃力DOWN【<color=#4CF37B>{0}%</color> / {1}秒】を付与": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "最も近い敵を中心とした範囲内にいる敵全体に攻撃力DOWN【{0}% / {1}秒】を付与": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "最も遠い敵{0}体に【{1}HIT / 合計<color=#4CF37B>{2}%</color>】ダメージ": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "最も遠い敵{0}体に【{1}HIT / 合計{2}%】ダメージ": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "最大HP【{0}%】分の回復に変化": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "最大HP割合DOWN": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "最大HP割合UP": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "最大HP固定DOWN": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "最大HP固定UP": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "最大{0}個まで使用できます": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "最良の作戦": [
+    "m_chapter_quests",
+    "m_novel_mains"
+  ],
+  "望郷の令和少女": [
+    "m_character_profiles",
+    "ui_texts"
+  ],
+  "本日の営業を開始しますか？": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "束の間の平穏": [
+    "m_chapter_quests",
+    "m_novel_mains"
+  ],
+  "桃色の一閃": [
+    "m_character_profiles",
+    "ui_texts"
+  ],
+  "案内役として": [
+    "m_chapter_quests",
+    "m_novel_mains"
+  ],
+  "森の妖精が織ったといわれるマント\nフォースチェインに反応して味方の力を高める。": [
+    "add-on/items",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "森の精霊と一体化した女面鳥身のモンスター。\n彼女らの歌声は獲物を誘い、\n鋭い鉤爪で肉を切り裂き、血を啜る。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "業火を操る魔族の女魔法使い。\nその炎は、地獄の業火を思わせる。\n敵を焼き尽くすまで、彼女の攻撃は止まらない。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "様々な宝石の原石。磨くまでその価値は分からない。\n「施設」を強化する特別なアップグレードに使用できる。": [
+    "add-on/facility",
+    "add-on/items"
+  ],
+  "様々な要因で戦う意志を見失った状態異常。\nスキルの使用とフォースチェインへの\n参加ができなくなってしまう。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "次があるわ、落ち込んじゃダメよ": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "次ターンの営業カードが必ず<color=#AC83FD>「ドリンク」</color>関連のものになる。\n（最終ターンでは効果を発揮しません）": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "次ターンの営業カードが必ず<color=#AC83FD>「接客」</color>関連のものになる。\n全てのスタッフの満足度+<color=#4CF37B>10%</color>": [
+    "add-on/bar",
+    "ui_texts"
+  ],
+  "次ターンの営業カードが必ず<color=#AC83FD>「料理」</color>関連のものになる。\n（最終ターンでは効果を発揮しません）": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "武器の扱いに長けた盗賊。\nいかなる環境下においても獲物を無心で追う\n厄介な集中力を持っている。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "武器の扱いに非常に長けた盗賊のリーダー。\nあらゆる状況下で常に獲物を無心で追う\n執拗なまでの集中力を持っている。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "歪んだ怨念を宿した禍々しい大剣\n紋章：衝撃に反応し、地獄の隕石を呼び出す。": [
+    "add-on/items",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "毒": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "毒液を吐き出す粘液状のモンスター。\nその体液に触れた者は毒に侵され、衰弱していく。\n油断すれば手遅れになるだろう。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "気持ちいいところを教えて！": [
+    "m_novel_characters",
+    "m_preregist_taverns"
+  ],
+  "水の精霊と契約したエルフの弓使い。\nその矢は、凍てつく冷気を纏い敵を凍結させる。\n森の守護者として、侵入者を決して許さない。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "水の魔道士": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "水を操る修道士。\nその手は、傷を癒し、疲れた体を潤す。\n水は、彼に治癒の知恵を与える。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "水属性の扱いに長けた盗賊。\nいかなる環境下においても獲物を逃さない\n厄介な冷静さを持っている。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "水属性の扱いに非常に長けた盗賊のリーダー。\nあらゆる状況下で常に獲物を逃がさない\n執拗なまでの冷静さを持っている。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "水属性の敵に対して与ダメージDOWN": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "水属性の敵に対して与ダメージUP": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "氷の刃を振るう女剣士。\nその剣技は、しなやかで冷酷。\n大穴の発見物を巡る戦いは、避けられない運命となる。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "氷の刃を振るう守護者。\nその剣技は、水のようにしなやかで、そして冷酷。\n兜の下に隠された表情は、常に冷静。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "氷の毛皮を纏いし獣。\n俊敏な動きで獲物に近付き、\n冷たい牙でその血を凍らせる。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "氷の翼を持つ女面鳥身のモンスター。\n彼女らの歌声は獲物を誘い、\n鋭い鉤爪で肉を切り裂き、血を啜る。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "氷の鱗を持つ大トカゲ。\n口から極寒の氷結液を吐き相手を凍てつかせる。\n冷気を纏う鱗は触れるだけで霜を刻む。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "氷の鱗を持つ翼竜。\n口から凍てつくブレスを吐き、万物を氷結させる。\nその翼が舞えば吹雪が荒れ狂う。氷河の守護者。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "氷河のタリスマン": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "氷河のモニュメント": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "氷河の厄災": [
+    "m_chapter_quests",
+    "m_novel_mains",
+    "names"
+  ],
+  "氷河の厄災【凶化】": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "氷河の厄災に出撃します。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "氷牙": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "氷獄": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "氷結の矢を放つ小鬼。\nその冷酷な笑みは、\n獲物を凍てつかせる氷のように冷たい。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "氷結の魔法を操る魔族の女魔法使い。\nその冷気は、すべてを凍てつかせる。\n彼女の杖は、戦場を氷漬けにする。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "氷結の魔法を操る魔法使い。\nその杖は、氷の矢を放ち、敵を凍てつかせる。\n戦場を氷漬けにするまで、彼の攻撃は止まらない。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "氷鎧": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "氷雪のハンマーを振るうドワーフ。\n性格は氷のように冷たく、\nその一撃はすべてを凍てつかせる。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "泥状の液体を吐き出す粘液状のモンスター。\nその体液に触れた者は泥まみれになり、動きが鈍くなる。\n油断すれば一瞬で泥濘に沈められるだろう。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "流れ滴る水の元素が意志を持ち具現化した姿。\n厄災による影響か非常に好戦的で近くにいる\n人類を狙い、押し流そうとしてくる。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "流浪の守護者。\nその剣技は、あらゆる状況に対応できる。\n兜の下に隠された素顔を知る者はいない。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "浸食率が低いほど火・水・土属性のキャラのスキルチャージ効率が上昇する(最大【20%】)": [
+    "m_nether_codes",
+    "ui_texts"
+  ],
+  "浸食率が高いほど光・闇・無属性のキャラの防御力が上昇する(最大【30%】)": [
+    "m_nether_codes",
+    "ui_texts"
+  ],
+  "浸食率が高いほど火・水・土属性のキャラの被ダメージが減少する(最大【40%】)": [
+    "m_nether_codes",
+    "ui_texts"
+  ],
+  "浸食率が高いほど火・水・土属性のキャラの防御力が上昇する(最大【30%】)": [
+    "m_nether_codes",
+    "ui_texts"
+  ],
+  "深海の魔導書を操る魔道士。\nその瞳に宿るは、生命を潤いで満たす清涼。\n湧き水のような清らかさで傷を癒やす。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "深海の魔石を動力源とする氷の人造人間。\n両腕から繰り出される絶対零度の拳は、\nすべてを凍結させる。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "深淵で60Fに到達する": [
+    "m_missions",
+    "ui_texts"
+  ],
+  "深淵でアビスコードを5個獲得して帰還する": [
+    "m_missions",
+    "ui_texts"
+  ],
+  "深淵に浸され変質したツルハシ\n戦闘開始時に紋章：情熱の力を高める。": [
+    "add-on/items",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "深淵に浸され変質した剣と盾、紋章：情熱に反応し、凄まじい爆発を操る。": [
+    "add-on/items",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "深淵に浸され変質した大剣、紋章：情熱に反応して会心の一撃の発生率を高める。": [
+    "add-on/items",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "深淵に浸され変質した弓\n攻撃に雷をまとう。": [
+    "add-on/items",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "深淵に浸され変質した手甲、攻撃に黒い雷を伴い\n紋章：情熱に反応して連撃を為す。": [
+    "add-on/items",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "深淵に浸され変質した杖、紋章：情熱の力の\n高まりに合わせて連撃率が上昇する。": [
+    "add-on/items",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "深淵に浸され変質した銃、紋章：衝撃の\n力の高まりに合わせて味方の攻撃力が上昇する。": [
+    "add-on/items",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "深淵に浸され変質した魔導書、紋章：情熱の力の\n高まりに合わせてスキルチャージが上昇する。": [
+    "add-on/items",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "深淵の10階層に到達する": [
+    "m_missions",
+    "ui_texts"
+  ],
+  "深淵のハンマーを振るうドワーフ。\n性格は闇のように閉鎖的で、\nその一撃は魂を蝕む。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "深淵の魔石を動力源とする闇の人造人間。\n両腕から繰り出される終焉の拳は、\nすべてを消滅させる。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "深淵鉱石があしらわれた魔導書、紋章：衝撃の\n力の発動に合わせて連撃率を上昇させる。": [
+    "add-on/items",
+    "add-on/materials"
+  ],
+  "深淵鉱石の書": [
+    "add-on/materials",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "深蝕のツルハシ": [
+    "add-on/system",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "深蝕のナックル": [
+    "add-on/system",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "深蝕のライフル": [
+    "add-on/system",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "深蝕の剣": [
+    "add-on/system",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "深蝕の大剣": [
+    "add-on/system",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "深蝕の弓": [
+    "add-on/system",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "深蝕の杖": [
+    "add-on/system",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "深蝕の魔導書": [
+    "add-on/system",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "混沌の魔導書を操る魔道士。\nその瞳に宿るは、全てを蝕む暗黒。\n月明かりのような静けさで傷を癒やす。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "清廉なる淑女": [
+    "m_character_profiles",
+    "ui_texts"
+  ],
+  "清流の祈り手": [
+    "m_character_profiles",
+    "ui_texts"
+  ],
+  "渦雷の厄災、迎撃成功です！！": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "渦雷の厄災に出撃します。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "渦雷の厄災の討伐依頼が発行されています！": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "漆黒のアーマー": [
+    "add-on/system",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "漆黒のツルハシ": [
+    "add-on/system",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "漆黒のドレス": [
+    "add-on/system",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "漆黒のナックル": [
+    "add-on/system",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "漆黒のマント": [
+    "add-on/system",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "漆黒のライフル": [
+    "add-on/system",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "漆黒の剣": [
+    "add-on/system",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "漆黒の大剣": [
+    "add-on/system",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "漆黒の弓": [
+    "add-on/system",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "漆黒の杖": [
+    "add-on/system",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "漆黒の魔導書": [
+    "add-on/system",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "激しい炎によって肉体が焼かれる状態異常。\n一定時間ごとにダメージを受ける。\n放置すれば確実に命を削り取られてしまう。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "激しい雷を操る女面鳥身のモンスター。\n彼女らの歌声は獲物を誘い、\n鋭い鉤爪で肉を切り裂き、血を啜る。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "火の精霊と契約したエルフの弓使い。\nその矢は、灼熱の炎を纏い敵を焼き尽くす。\n森の守護者として、侵入者を決して許さない。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "火属性の扱いに長けた盗賊。\nいかなる環境下においても獲物を攻撃する\n厄介な情熱を持っている。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "火属性の扱いに非常に長けた盗賊のリーダー。\nあらゆる状況下で常に獲物を攻撃する\n執拗なまでの情熱を持っている。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "火属性の敵に対して与ダメージDOWN": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "火属性の敵に対して与ダメージUP": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "火炎の矢を放つ小鬼。\nその獰猛な眼差しは、\n獲物を焼き尽くす炎のように燃えている。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "火花散る剣技\r": [
+    "m_character_profiles",
+    "ui_texts"
+  ],
+  "灼熱の刃を振るう女剣士。\nその剣技は、炎の如く荒々しい。\n大穴の発見物を巡る戦いは、避けられない運命となる。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "灼熱の斧を振るう、牛頭人身のモンスター。\nその獰猛な突進は炎の嵐を巻き起こし、\n戦場を焼き尽くす。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "灼熱の液体を吐き出す粘液状のモンスター。\nその体液に触れた者は大火傷を負う。\n油断すれば一瞬で丸焦げにされるだろう。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "灼熱の炎を操る修道士。\nその手は、傷を癒し、生命力を燃え上がらせる。\n炎の力は、彼に治癒の奇跡をもたらす。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "灼熱の炎を纏いし守護者。\nその刃は、相手を焼き尽くす。\n兜の下に隠された顔は、怒りの炎に満ちている。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "灼熱の炎を纏いし獣。\n俊敏な動きで獲物に近付き、\n鋭い牙で骨を砕く。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "炎の弓使い": [
+    "names",
+    "ui_texts"
+  ],
+  "炎の翼を持つ女面鳥身のモンスター。\n彼女らの歌声は獲物を誘い、\n鋭い鉤爪で肉を切り裂き、血を啜る。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "炎の魔道士": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "炎の鱗を持つ大トカゲ。\n口から灼熱の溶岩を吐き、戦場を灰に変える。\n近づく者を寄せ付けない炎の支配者。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "炎の鱗を持つ翼竜。\n口から灼熱のブレスを吐き、大地を焦がす。\nその咆哮は空を赤く染める。炎の守護者": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "炎を操る魔法使い。\nその杖は、灼熱の弾丸を放つ。\n戦場を焼き尽くすまで、彼の攻撃は止まらない。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "炎上": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "炎上の指輪": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "炎上成功率DOWN": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "炎上成功率UP": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "炎上状態の敵に対して与ダメージDOWN": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "炎上状態の敵に対して与ダメージUP": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "炎上耐性DOWN": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "炎上耐性UP": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "焔刃の大剣": [
+    "names",
+    "ui_texts"
+  ],
+  "無償アビスジェムから優先して消費されます。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "無属性の敵に対して与ダメージDOWN": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "無属性の敵に対して与ダメージUP": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "無気力の厄災、迎撃成功です！！": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "無気力の厄災に出撃します。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "無気力の厄災の討伐依頼が発行されています！": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "煌めきの打ち手": [
+    "m_character_profiles",
+    "ui_texts"
+  ],
+  "熟練の技を誇る女剣士。\nその剣技は、あらゆる状況に対応できる。\n大穴の発見物を巡る戦いは、避けられない運命となる。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "熱波の厄災": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "燃え盛る炎の元素が意志を持ち具現化した姿。\n厄災による影響か非常に好戦的で近くにいる\n人類を狙い、焼き尽くそうとしてくる。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "燃え盛る花弁を持つ食人植物。\nその牙は鋭く獲物を逃さない。\n口から吐き出す炎は、すべてを焼き尽くす。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "牆上・基地技能強化": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "片手剣と盾を組み合わせたオーソドックスな武器\n守りに長けた探索者に好まれる。\n地上の敵に素早い{0}連撃を繰り出す。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "特殊行動制御": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "狙撃": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "狩人の真価": [
+    "m_gacha_group_movies",
+    "m_novel_characters"
+  ],
+  "獣爪のナックル": [
+    "names",
+    "ui_texts"
+  ],
+  "異世界からやってきたルクスノヴァの\n探索者たちは戦闘でも特徴的な力を発揮する。\n上手く編成に組み込もう。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "異世界で喜ばれるプレゼント": [
+    "add-on/materials",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "異世界の技術で製造された鉄の獣。\nその動力源は謎だが、機動性に優れ、\n固く鋭い牙で侵入者を襲う。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "異世界の技術で造られた鉄の人造人間。\n両腕から繰り出される鉄拳は、すべてを押しつぶす。\nその姿は、まるで意志を持つ鋼鉄の鎧。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "異世界の技術で造られらた合成魔獣。\nその角の硬度はダイヤモンドに匹敵し、\nあらゆるものを貫通する。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "異世界の銃、低温の衝撃を放ち、紋章：情熱の\n力の高まりに合わせて攻撃力が上昇する。\n\n": [
+    "add-on/items",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "異国で流行りのプレゼント": [
+    "add-on/materials",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "異界より流れ着いたセクシーな衣装\n紋章：情熱に反応してスキルの使用を助ける。": [
+    "add-on/items",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "疲労と空腹": [
+    "m_chapter_quests",
+    "m_novel_mains"
+  ],
+  "疾風怒濤の自然児": [
+    "m_character_profiles",
+    "ui_texts"
+  ],
+  "白雷の騎士生徒会長": [
+    "m_character_profiles",
+    "ui_texts"
+  ],
+  "盛り上がってきました！": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "目、離さないでよね\nうちのダンスに酔いしれなさい♪": [
+    "add-on/catchphrase",
+    "add-on/dialogue"
+  ],
+  "石化": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "石化成功率DOWN": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "石化成功率UP": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "石化状態の敵に対して与ダメージDOWN": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "石化状態の敵に対して与ダメージUP": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "石化耐性DOWN": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "石化耐性UP": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "砕氷の厄災、迎撃成功です！！": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "砕氷の厄災に出撃します。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "碧光のツルハシ": [
+    "add-on/system",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "碩学の弓使い": [
+    "m_character_profiles",
+    "ui_texts"
+  ],
+  "神々の使者たる守護者。\nその刃は、神の裁きを執行する。\n兜の下に隠された顔は、狂信に染まっている。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "神に仕えし女戦士。\nだが、その心は、狂信に染まっている。\n彼女は神の名の下に、主人公たちに牙を剥く。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "神出鬼没の希少種を、迅速に追跡、排除する\n戦闘任務。希少な物資を溜め込んだ、\n極めて警戒心の強い個体が対象となる。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "神秘な力を持つ鋼鉄の守護者。\nその大剣は、侵入者を断ち切り、\nその鎧は、決して砕けることはない。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "神聖": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "神託の書": [
+    "names",
+    "ui_texts"
+  ],
+  "秘めたる才能": [
+    "m_gacha_group_movies",
+    "m_novel_characters"
+  ],
+  "秘密を抱く聖職者": [
+    "m_character_profiles",
+    "ui_texts"
+  ],
+  "空を司るエルフの弓使い。\nその矢は、空気を切り裂き敵を貫く。\n森の守護者として、侵入者を決して許さない。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "空を操る魔法使い。\nその杖は、風の弾丸を放ち、敵を吹き飛ばす。\n彼の攻撃は戦場を混乱に陥れる。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "空を駆ける女魔法使い。\nその魔法は、風を呼び、嵐を巻き起こす。\n彼女の杖は、天空を支配する。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "第{0}階層VeryHardクリア記念": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "第３階層で【情熱】火山の階層　掃討【深度{0}】が発生！\n【情熱】火山の階層　追跡【深度{1}】をクリア！\n第３階層で【情熱】火山の階層　探索【深度{2}】が発生！": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "第３階層で【情熱】火山の階層　探索【深度{0}】が発生！": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "第３階層で【情熱】火山の階層　探索【深度{0}】が発生！\n": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "第３階層で【情熱】火山の階層　探索【深度{0}】が発生！\n【情熱】火山の階層　掃討【深度{1}】をクリア！\n第３階層で【情熱】火山の階層　追跡【深度{2}】が発生！": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "第３階層で【情熱】火山の階層　追跡【深度{0}】が発生！": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "第３階層で【情熱】火山の階層　追跡【深度{0}】が発生！\n": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "第４階層で【衝撃】闇の階層　追跡【深度{0}】が発生！": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "第４階層で【衝撃】闇の階層　追跡【深度{0}】が発生！\n": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "第４階層で【衝撃】闇の階層　追跡【深度{0}】が発生！\n【衝撃】廃墟の階層　探索【深度{1}】をクリア！\n第４階層で【衝撃】闇の階層　追跡【深度{2}】が発生！": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "精強な騎士団を率いた英雄王の剣、味方全体を\n強化する力を持ち、紋章：衝撃の力を高める。": [
+    "add-on/items",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "精霊の力を宿したマント\n紋章：情熱の力に反応して味方を回復する。\n": [
+    "add-on/items",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "紅の猟銃使い": [
+    "m_character_profiles",
+    "ui_texts"
+  ],
+  "紅蓮の魔導書を操る魔道士。\nその瞳に宿るは、生命を燃え上がらせる情熱。\n陽だまりのような温かさで傷を癒やす。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "紅蓮の魔石を動力源とする炎の人造人間。\n両腕から繰り出される灼熱の拳は、\nすべてを灰燼と化す。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "紅魔の栄光・招集": [
+    "add-on/materials",
+    "add-on/system"
+  ],
+  "紋章：衝撃ピックアップガチャ": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "素直じゃない彼女の気持ち": [
+    "m_novel_characters",
+    "m_preregist_taverns"
+  ],
+  "終わらぬ搾精": [
+    "m_gacha_group_movies",
+    "m_novel_characters"
+  ],
+  "絆Lvを上げて最初のストーリーを見ると<br>おしごと衣装が解放されます。": [
+    "add-on/bar",
+    "ui_texts"
+  ],
+  "絆Lvを上げて絆ptを1ポイント獲得する": [
+    "m_missions",
+    "ui_texts"
+  ],
+  "絆Lvを強化することで<br><color=#4cf37b>マナデリバリー</color>のLv上限を<color=#4cf37b>{0}</color>にできます。<br>絆Lvを強化しますか？": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "絆Lvを強化することで<br><color=#4cf37b>ムードメーカー</color>のLv上限を<color=#4cf37b>{0}</color>にできます。<br>絆Lvを強化しますか？": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "絆Lvを強化することで<br><color=#4cf37b>鏡花水月</color>のLv上限を<color=#4cf37b>{0}</color>にできます。<br>絆Lvを強化しますか？": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "結晶かした経験が詰まった不思議なボックス。\n「アイテム一覧」で使用することで探索隊の12時間分の経験値報酬を受け取ることができる。": [
+    "add-on/items",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "結晶かした経験が詰まった不思議なボックス。\n「アイテム一覧」で使用することで探索隊の1時間分の経験値報酬を受け取ることができる。": [
+    "add-on/items",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "絶望の声": [
+    "m_chapter_quests",
+    "m_novel_mains"
+  ],
+  "緊急退避": [
+    "m_chapter_quests",
+    "m_novel_mains"
+  ],
+  "緑色に輝く光刃によって形成されたツルハシ\n敵を倒すことで紋章：衝撃の力を高める。": [
+    "add-on/items",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "編成こそ部隊運用の要よ！\nあなたの腕前、見せてみなさい！": [
+    "m_part_voices",
+    "ui_texts"
+  ],
+  "繚乱の盾": [
+    "m_character_profiles",
+    "ui_texts"
+  ],
+  "美味しすぎる特典に惹かれて": [
+    "m_novel_characters",
+    "m_preregist_taverns"
+  ],
+  "翠石の隆盛・招集": [
+    "add-on/materials",
+    "add-on/system"
+  ],
+  "聖なるハンマーを振るうドワーフ。\n性格は光のように慈悲深く、\nその一撃は邪悪を打ち払う。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "聖なる光を纏いし獣。\nその毛皮は黄金に輝き、\n鋭い牙で骨を砕く。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "聖なる剣を掲げる、牛頭人身のモンスター。\nその光に満ちた刃は邪悪を断ち切り、\nすべてを浄化する。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "聖なる花弁を持つ食人植物。\nその牙は鋭く獲物を逃さない。\n口から吐き出す光は、すべてを盲目にする。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "聖なる魔石を動力源とする光の人造人間。\n両腕から繰り出される裁きの拳は、\nすべてを浄化する。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "胸（特殊魔導炉）が高鳴ります": [
+    "m_gacha_group_movies",
+    "m_novel_characters"
+  ],
+  "自動分解設定に基づいて{0}個の装備を分解しようとしています。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "自爆シークエンス": [
+    "m_chapter_quests",
+    "m_novel_mains"
+  ],
+  "自身が火属性が弱点の敵に与えるダメージが【{1}%】上昇": [
+    "ability_descriptions",
+    "m_ability_details"
+  ],
+  "自身にノワール憑依【{0}秒】を付与 / 自身の前方範囲内にいる敵全体に【{1}HIT / 合計<color=#4CF37B>{2}%</color>】ダメージ": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "自身にノワール憑依【{0}秒】を付与 / 自身の前方範囲内にいる敵全体に【{1}HIT / 合計{2}%】ダメージ": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "自身のパラメーターの【<color=#4CF37B>{0}%</color>】を引き継ぐ魔法植物を【{1}秒】召喚": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "自身のパラメーターの【{0}%】を引き継ぐ魔法植物を【{1}秒】召喚": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "自身の全状態異常耐性が【{10}】上昇": [
+    "ability_descriptions",
+    "m_ability_details"
+  ],
+  "自身の全状態異常耐性が【{15}】上昇": [
+    "ability_descriptions",
+    "m_ability_details"
+  ],
+  "自身の全状態異常耐性が【{20}】上昇": [
+    "ability_descriptions",
+    "m_ability_details"
+  ],
+  "自身の全状態異常耐性が【{25}】上昇": [
+    "ability_descriptions",
+    "m_ability_details"
+  ],
+  "自身の全状態異常耐性が【{30}】上昇": [
+    "ability_descriptions",
+    "m_ability_details"
+  ],
+  "自身の全状態異常耐性が【{35}】上昇": [
+    "ability_descriptions",
+    "m_ability_details"
+  ],
+  "自身の全状態異常耐性が【{40}】上昇": [
+    "ability_descriptions",
+    "m_ability_details"
+  ],
+  "自身の全状態異常耐性が【{45}】上昇": [
+    "ability_descriptions",
+    "m_ability_details"
+  ],
+  "自身の全状態異常耐性が【{50}】上昇": [
+    "ability_descriptions",
+    "m_ability_details"
+  ],
+  "自身の全状態異常耐性が【{5}】上昇": [
+    "ability_descriptions",
+    "m_ability_details"
+  ],
+  "自身の前方範囲内にいる敵全体に【{0}HIT / 合計<color=#4CF37B>{1}%</color>】ダメージ": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "自身の前方範囲内にいる敵全体に【{0}HIT / 合計<color=#4CF37B>{1}%</color>】ダメージ / 凍結【{2}秒 / 成功率:{3}%】を付与": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "自身の前方範囲内にいる敵全体に【{0}HIT / 合計{1}%】ダメージ": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "自身の前方範囲内にいる敵全体に【{0}HIT / 合計{1}%】ダメージ / 凍結【{2}秒 / 成功率:{3}%】を付与": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "自身の炎上耐性が【{0}%】上昇": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "自身の連撃率が【{15}%】上昇": [
+    "ability_descriptions",
+    "m_ability_details"
+  ],
+  "自身の連撃率が【{20}%】上昇": [
+    "ability_descriptions",
+    "m_ability_details"
+  ],
+  "自身の連撃率が【{25}%】上昇": [
+    "ability_descriptions",
+    "m_ability_details"
+  ],
+  "花弁が咲く前の食人植物。\nその牙は鋭く獲物を逃さない。\n口から吐き出す胞子は獲物を混乱に陥れる。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "若き工兵隊長": [
+    "m_character_profiles",
+    "ui_texts"
+  ],
+  "英雄の血脈に応じ、複数のマナの波動を一点に集束させる高純度魔力結晶。\nすべてを包み込む救済の光を放つ。\n\nその慈愛に満ちた輝きは、傷ついた肉体と疲弊した魂を瞬時に癒やし、戦士たちに再び立ち上がる力を与える。\n絶命の淵さえも押し戻すその奇跡は、潰えかけた命の灯火を、決して折れぬ不屈の希望へと塗り替えるだろう。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "英雄の血脈に応じ、複数のマナの波動を一点に集束させる高純度魔力結晶。\n不落の城塞を思わせる金剛の輝きを放つ。\n\nその堅牢なる加護は、烈火のごとき攻撃さえも無に帰し、敗色の濃い戦況を、盤石なる勝利への礎へと塗り替えるだろう。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "英雄の血脈に応じ、複数のマナの波動を一点に集束させる高純度魔力結晶。\n仲間の昂る情熱を共鳴の火種とし、万物を砕く崩壊の波動を放つ。\n\nその構造を瓦解させる一撃は、敵の装甲や結界を根底から砕き、あらゆる守護を無意味な残骸へと帰す。\n抗う術を奪い去るその崩落は、盤石の敵陣を、なす術もなく蹂躙される無秩序な混沌へと塗り替えるだろう。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "英雄の血脈に応じ、複数のマナの波動を一点に集束させる高純度魔力結晶。\n仲間の昂る情熱を共鳴の火種とし、死の境界さえ照らし出す『不滅の生命の輝き』を放つ。\n\nその魂を揺さぶる慈愛は、潰えかけた命の灯火を再び激しく燃え上がらせ、倒れ伏した戦士を再び戦列へと呼び戻す。\n絶望の別れを拒絶するその奇跡は、最果ての喪失を、運命に抗う不撓不屈の希望へと塗り替えるだろう。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "英雄の血脈に応じ、複数のマナの波動を一点に集束させる高純度魔力結晶。\n仲間の昂る情熱を共鳴の火種とし、限界を超越する剛力の波動を放つ。\n\n理を覆すその破壊的膂力は、立ちはだかる鉄壁を容易く粉砕し、微かな勝機を、絶対的な勝利へと塗り替えるだろう。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "英雄の血脈に応じ、複数のマナの波動を一点に集束させる高純度魔力結晶。\n仲間の猛き衝撃を共鳴の火種とし、あらゆる穢れを吹き飛ばす清冽なる浄化の脈動を放つ。\n\nその淀みなき衝撃は、戦士たちの肉体を蝕む毒や精神を縛る呪縛を瞬時に霧散させ、傷ついた魂をあるべき姿へと還す。\n戦士を縛る忌まわしき枷を打ち砕くその輝きは、停滞する逆境を、清浄なる再起へと塗り替えるだろう。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "英雄の血脈に応じ、複数のマナの波動を一点に集束させる高純度魔力結晶。\n仲間の猛き衝撃を共鳴の火種とし、生を拒絶する禍々しき毒の波動を放つ。\n\nその侵食する一撃は、敵の生命力を内側から蝕み、いかなる猛者さえも音もなく朽ち果てさせる。\n抗えぬ衰弱を強いるその猛毒は、執拗な抵抗を、逃げ場なき静寂の死域へと塗り替えるだろう。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "英雄の血脈に応じ、複数のマナの波動を一点に集束させる高純度魔力結晶。\n仲間の猛き衝撃を共鳴の火種とし、空間をも震わせる激動の波動を放つ。\n\nすべてを圧壊するその一撃は、敵の戦列を無慈悲に吹き飛ばし、硬着した戦況を、一気呵成の猛攻へと塗り替えるだろう。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "英雄の血脈に応じ、複数のマナの波動を一点に集束させる高純度魔力結晶。\n戦場のすべてを無に帰す、慈悲なき破滅の光を放つ。\n\n絶望を穿つその一閃は、いかなる窮地をも打ち破り、瞬く間に戦局を勝利へと塗り替えるだろう。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "蒼剣の誇り・招集": [
+    "add-on/materials",
+    "add-on/system"
+  ],
+  "蘇生": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "虚ろなる無の元素が意志を持ち具現化した姿。\n厄災による影響か非常に好戦的で近くにいる\n人類を狙い、虚空へと引きずり込もうとしてくる。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "虚無を操る修道士。\nその祈りは、生命を完全な状態へと回帰させる。\n虚の力は、彼に究極の再生をもたらす。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "行動ができず、被ダメージが増加した状態\n（被ダメージ時に確率で解除）": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "行動時HP割合ダメージ": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "行動間隔DOWN": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "行動間隔UP": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "行動間隔が延長され、連撃率とスキルチャージ効率が低下した状態\n一定回数行動すると解除": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "行動間隔延長": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "衝撃のマナクリスタル【烈風】": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "衝撃のマナクリスタル【猛毒】": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "衝撃のマナクリスタル【解除】": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "衝撃スタック数増加": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "衝撃スタック消費無効": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "被ダメージDOWN": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "被ダメージUP": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "被ダメージ時、{0}%の確率で、{1}秒間自身の防御【{2}%】UP": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "装備を200回分解する": [
+    "m_missions",
+    "ui_texts"
+  ],
+  "覇光の剣": [
+    "add-on/system",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "見覚えのある街並み": [
+    "m_chapter_quests",
+    "m_novel_mains"
+  ],
+  "見通す者": [
+    "m_character_profiles",
+    "ui_texts"
+  ],
+  "記憶の欠片(LvUP)": [
+    "add-on/materials",
+    "add-on/mission"
+  ],
+  "記憶の欠片が詰まった不思議なボックス。\n「アイテム一覧」で使用することで探索隊の12時間分の記憶の欠片報酬を受け取ることができる。": [
+    "add-on/items",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "記憶の欠片が詰まった不思議なボックス。\n「アイテム一覧」で使用することで探索隊の1時間分の記憶の欠片報酬を受け取ることができる。": [
+    "add-on/items",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "記憶の欠片セット({0}時間)": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "記憶の欠片セット({0}時間) ×{1}": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "記憶や経験をコピーする神秘的な遺物。\n探索者間で戦闘経験を共有するシステムに不可欠。\n「施設」でシンクロLvの解放や上限の拡張に必要。": [
+    "add-on/facility",
+    "add-on/items"
+  ],
+  "評価がGood以上のスタッフの満足度+<color=#4CF37B>20%</color>": [
+    "add-on/bar",
+    "ui_texts"
+  ],
+  "評価がGreat以上のスタッフの満足度+<color=#4CF37B>50%</color>": [
+    "add-on/bar",
+    "ui_texts"
+  ],
+  "誰か助けて！": [
+    "m_chapter_quests",
+    "m_novel_mains"
+  ],
+  "謂れが謎に包まれた漆黒のツルハシ紋章：情熱の\n力が高まった際にマナクリスタルの力を高める。": [
+    "add-on/items",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "謂れが謎に包まれた漆黒のマント\n紋章：衝撃に反応してスキルの使用を助ける。": [
+    "add-on/items",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "謂れが謎に包まれた漆黒の剣。戦闘開始時に\n味方に紋章：情熱の力を付与する。": [
+    "add-on/items",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "謂れが謎に包まれた漆黒の剣。紋章：衝撃の発動\nに反応して味方の防御力を高める力がある。": [
+    "add-on/items",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "謂れが謎に包まれた漆黒の弓。周囲の味方の\n紋章：衝撃の力を高める。": [
+    "add-on/items",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "謂れが謎に包まれた漆黒の手甲。紋章：情熱の\n力の高まりに合わせて味方を強化する。": [
+    "add-on/items",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "謂れが謎に包まれた漆黒の衣\n紋章：衝撃の力を高める。": [
+    "add-on/items",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "謂れが謎に包まれた漆黒の銃。紋章：情熱の\n力の高まりに合わせて周囲の会心率が上昇する。": [
+    "add-on/items",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "謂れが謎に包まれた漆黒の銃。紋章：情熱の力の\n高まりに合わせて状態異常の付与率が上昇する。": [
+    "add-on/items",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "謂れが謎に包まれた漆黒の鎧\n被害に反応して紋章：衝撃の力を高める。": [
+    "add-on/items",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "謂れが謎に包まれた漆黒の魔導書、紋章：衝撃の\n力の発動に合わせて味方の防御力を高める。": [
+    "add-on/items",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "譲れない気持ち": [
+    "m_gacha_group_movies",
+    "m_novel_characters"
+  ],
+  "豊穣の花弁を持つ食人植物。\nその牙は鋭く獲物を逃さない。\n口から吐き出す胞子は、すべてを蝕む。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "豊穣の魔導書を操る魔道士。\nその瞳に宿るは、生命を育む森羅万象。\n新緑のように生命力を蘇らせる。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "豊穣神のツルハシ": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "豪華な装飾が施された鎧\n紋章：情熱の力に反応して耐性を高める。": [
+    "add-on/items",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "賑やかな死人": [
+    "m_character_profiles",
+    "ui_texts"
+  ],
+  "赤焔の弓使い": [
+    "m_character_profiles",
+    "ui_texts"
+  ],
+  "赤熱のハンマーを振るうドワーフ。\n性格は炎のように熱く、\nその一撃は大地を焼き尽くす。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "輝く鱗を持つ大トカゲ。\n眩い光を口から放ち、視界を奪い焼き尽くす。\n聖なる輝きを纏うが、その本性は冷酷な捕食者。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "迎撃戦で厄災Lv3に到達する": [
+    "m_missions",
+    "ui_texts"
+  ],
+  "迎撃戦で厄災Lv5に到達する": [
+    "m_missions",
+    "ui_texts"
+  ],
+  "迎撃戦で厄災Lv7に到達する": [
+    "m_missions",
+    "ui_texts"
+  ],
+  "近くの敵に範囲攻撃。攻撃範囲が広い。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "追加アイテム入手確率＋{0}％": [
+    "add-on/facility",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "通常回復を2回行うと、最も近い敵を中心とした範囲内にいる敵全体に魅了【{10}秒 / 成功率:30%】を付与 / 自身に紋章：衝撃を1付与": [
+    "ability_descriptions",
+    "m_ability_details"
+  ],
+  "通常回復を2回行うと、最も近い敵を中心とした範囲内にいる敵全体に魅了【{5}秒 / 成功率:30%】を付与 / 自身に紋章：衝撃を1付与": [
+    "ability_descriptions",
+    "m_ability_details"
+  ],
+  "通常回復を2回行うと、最も近い敵を中心とした範囲内にいる敵全体に魅了【{7}秒 / 成功率:30%】を付与 / 自身に紋章：衝撃を1付与": [
+    "ability_descriptions",
+    "m_ability_details"
+  ],
+  "通常攻撃被ダメージDOWN": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "通常攻撃被ダメージUP": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "通常用<br>コスチューム": [
+    "add-on/bar",
+    "ui_texts"
+  ],
+  "連撃率DOWN": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "連撃率UP": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "選べるRank{0}アクセBOX【レジェンダリー】": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "選べるRank{0}武器BOX【レジェンダリー】": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "選べるRank{0}武器BOX【事前登録】": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "選べるRank{0}鑑定武器BOX【情熱】": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "選べるRank{0}鑑定武器BOX【衝撃】": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "選べるRank{0}防具BOX【レジェンダリー】": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "選べるSSRキャラBOX【プレミアム{0}弾】 ×{1}": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "選べるSSRキャラBOX【初心者M】": [
+    "add-on/materials",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "選べる上級技能元素BOX": [
+    "add-on/materials",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "選べる上級技能元素BOX【スタンス】": [
+    "add-on/materials",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "選べる上級技能元素BOX【属性】": [
+    "add-on/materials",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "選べる中級技能元素BOX": [
+    "add-on/materials",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "選べる中級技能元素BOX【スタンス】": [
+    "add-on/materials",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "選べる中級技能元素BOX【属性】": [
+    "add-on/materials",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "選べる初級技能元素BOX": [
+    "add-on/materials",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "選べる初級技能元素BOX【スタンス】": [
+    "add-on/materials",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "選べる初級技能元素BOX【属性】": [
+    "add-on/materials",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "選べる親愛度アイテムBOX": [
+    "add-on/materials",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "邪悪な力に魅入られた女戦士。\nその心は、憎悪と復讐に燃えている。\n大穴の発見物を巡る戦いにおいて、彼女は闇の復讐者となる。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "邪悪な力に魅入られた守護者。\nその心は、憎悪と復讐に燃えている。\n兜の下には、底知れぬ闇が渦巻いている。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "都合のよい世界": [
+    "m_chapter_quests",
+    "m_novel_mains"
+  ],
+  "酒場の情事": [
+    "m_gacha_group_movies",
+    "m_novel_characters"
+  ],
+  "重いこん棒を振り下ろす、牛頭人身のモンスター。\nその一撃は大地を揺るがし、\nすべてを粉砕する。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "野良冒険者": [
+    "add-on/dictionary",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "金色の狙撃手": [
+    "m_character_profiles",
+    "ui_texts"
+  ],
+  "鉄の翼を持つ女面鳥身のモンスター。\n彼女らの歌声は獲物を誘い、\n鋭い鉤爪で肉を切り裂き、血を啜る。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "鉄の鱗を持つ大トカゲ。\n口から透明な液体を放ち、毒牙にかける。\n無機質な鱗の下に潜むのは、感情なき殺戮の本能。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "鋼の盗賊": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "鋼鉄のハンマーを振るうドワーフ。\n性格は鋼鉄のように冷徹で、\nその一撃はすべて叩きのめす。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "鋼鉄の矢を放つ小鬼。\nその鍛えられた頑強な皮膚は、\nあらゆる攻撃を弾き返す。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "鋼鉄製の無骨な大剣、紋章：衝撃の力を\n解放した際に連撃率が上昇する。": [
+    "add-on/items",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "鎧巨人": [
+    "add-on/dictionary",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "鑑定レンズ「装備」": [
+    "add-on/materials",
+    "add-on/system"
+  ],
+  "閃光の介添人": [
+    "m_character_profiles",
+    "ui_texts"
+  ],
+  "開発計画書「基地スキルの開放{0}」の\n完了で解放": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "闇の炎を纏いし獣。\n俊敏な動きで獲物に近付き、\n鋭い牙で骨を砕く。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "闇の眷属である女面鳥身のモンスター。\n彼女らの歌声は獲物を誘い、\n鋭い鉤爪で肉を切り裂き、血を啜る。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "闇の精霊と契約したエルフの弓使い。\nその矢は、邪悪な闇を纏い、敵を闇に葬る。\n森の守護者として、侵入者を決して許さない。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "闇の鱗を持つ大トカゲ。\n口から闇を吐き、相手を永遠の暗闇に閉じ込める。\n光を吸い込む鱗は不気味に蠢き、絶望の淵へと誘う。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "闇を操る修道士。\nその祈りは、死の淵から生命を引き戻し、傷を癒す。\n闇の力は、彼に禁断の治癒をもたらす。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "闇を操る魔族の女魔法使い。\nその魔法は、敵を恐怖に陥れる。\n敵を闇に葬るまで、彼女の攻撃は止まらない。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "闇を操る魔法使い。\nその力は、敵を恐怖に陥れる。\n戦場を闇で包み込むまで、彼の攻撃は止まらない。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "闇属性の扱いに長けた盗賊。\nいかなる環境下においても獲物をいたぶる\n厄介な陰湿さを持っている。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "闇属性の扱いに非常に長けた盗賊のリーダー。\nあらゆる状況下で常に獲物をいたぶる\n執拗なまでの陰湿さを持っている。": [
+    "descriptions",
+    "add-on/dictionary"
+  ],
+  "闇属性の敵に対して与ダメージDOWN": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "闇属性の敵に対して与ダメージUP": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "防御力DOWN": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "防御力UP": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "防衛施設のマナ燃料": [
+    "add-on/facility",
+    "add-on/materials"
+  ],
+  "陽光を閉じ込めた魔石を触媒とする杖\nマナクリスタル使用時に紋章：衝撃の力を高める": [
+    "add-on/items",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "雷光誘う天の巫女": [
+    "m_character_profiles",
+    "ui_texts"
+  ],
+  "雷撃の導き手": [
+    "m_character_profiles",
+    "ui_texts"
+  ],
+  "食人花の花": [
+    "names",
+    "ui_texts"
+  ],
+  "食人花の花弁。妖艶な花弁から魅惑的な香りが漂う。\n「施設」を強化する特別なアップグレードに使用できる。": [
+    "add-on/facility",
+    "add-on/items"
+  ],
+  "飢餓": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "飢餓のタリスマン": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "飢餓のモニュメント": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "飢餓の厄災": [
+    "m_chapter_quests",
+    "names"
+  ],
+  "飢餓の厄災、迎撃されました！": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "飢餓の厄災に出撃します。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "飽食": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "騎士国の忠犬\r": [
+    "m_character_profiles",
+    "ui_texts"
+  ],
+  "騎士道まっしぐら": [
+    "m_character_profiles",
+    "ui_texts"
+  ],
+  "高性能アンドロイド": [
+    "m_character_profiles",
+    "ui_texts"
+  ],
+  "高難易度ダンジョン「深淵」に挑戦できるようになる。\n主にスタミナを消費することで入手できる。\n「深淵」では高ランク装備などの報酬を得る機会がある。": [
+    "add-on/items",
+    "add-on/system"
+  ],
+  "魅了": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "魅了の付与秒数が【<color=#4CF37B>{0}秒</color>】に変化 / <color=#6B8CFF>紋章：衝撃</color>を{1}消費し、ダメージ倍率が【<color=#4CF37B>{2}%</color>】に変化": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "魅了の付与秒数が【{0}秒】に変化 / <color=#6B8CFF>紋章：衝撃</color>を{1}消費し、ダメージ倍率が【{2}%】に変化": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "魅了の指輪": [
+    "add-on/system",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "魅了成功率DOWN": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "魅了成功率UP": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "魅了状態の敵に対して与ダメージDOWN": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "魅了状態の敵に対して与ダメージUP": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "魅了耐性DOWN": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "魅了耐性UP": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "魔導士": [
+    "add-on/dictionary",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "魔法のための触媒。範囲攻撃を得意とする\n魔法使いたちの得物。一定以上離れた地上と空の\n敵に単発の魔法弾を放つ。": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "魔法生物の命脈。その核には悠久の魔力が宿っている。\n「施設」を強化する特別なアップグレードに使用できる。\n": [
+    "add-on/facility",
+    "add-on/items"
+  ],
+  "魔法石から抽出されたエネルギー源。\n「厄災戦」で強力な防衛施設を設置するのに必要となる。": [
+    "add-on/facility",
+    "add-on/items"
+  ],
+  "鳳翼の神弓": [
+    "add-on/system",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "麻痺": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "麻痺の指輪": [
+    "names",
+    "ui_texts"
+  ],
+  "麻痺成功率DOWN": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "麻痺成功率UP": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "麻痺状態の敵に対して与ダメージDOWN": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "麻痺状態の敵に対して与ダメージUP": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "麻痺耐性DOWN": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "麻痺耐性UP": [
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "黒縄の連帯・招集": [
+    "add-on/materials",
+    "add-on/system"
+  ],
+  "龍牙のナックル": [
+    "add-on/system",
+    "add-on/ui_misc",
+    "legacy/add-on/ui_misc"
+  ],
+  "２つの追加機能": [
+    "m_chapter_quests",
+    "m_novel_mains"
+  ],
+  "２人だけのレッスン": [
+    "m_novel_characters",
+    "m_preregist_taverns"
+  ],
+  "２階で研修してください": [
+    "m_gacha_group_movies",
+    "m_novel_characters"
+  ]
+}

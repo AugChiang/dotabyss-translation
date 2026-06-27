@@ -1,0 +1,51 @@
+name: Masterdata 翻譯覆蓋率
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "translations/**"
+      - "tools/masterdata_gap_report.py"
+      - "tools/validate_coverage.py"
+  pull_request:
+    branches: [main]
+    paths:
+      - "translations/**"
+  schedule:
+    # 每周日 00:00 UTC 定期重跑（偵測遊戲更新新增的字串）
+    - cron: "0 0 * * 0"
+  workflow_dispatch:
+
+jobs:
+  coverage:
+    name: 覆蓋率檢查
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: 執行缺口掃描 (gap report)
+        run: |
+          python tools/masterdata_gap_report.py
+        env:
+          PYTHONIOENCODING: utf-8
+
+      - name: 上傳覆蓋率報告
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: masterdata-coverage-report
+          path: reports/
+          retention-days: 30
+
+      - name: 驗證 critical category 達標
+        run: |
+          python tools/validate_coverage.py
+        env:
+          PYTHONIOENCODING: utf-8
