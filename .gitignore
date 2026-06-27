@@ -1,3 +1,4 @@
 how-to-update.*
 NOTE.*
 sync_*.py
+.sync_state.json
