@@ -1,4 +1,4 @@
 how-to-update.*
 NOTE.*
-sync_*.py
+backup/*
 .sync_state.json
