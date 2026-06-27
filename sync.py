@@ -317,47 +317,6 @@ def sync():
     print(f"\nUpstream changed: {len(upstream_only) + len(conflicts)}")
     print(f"Conflicts: {len(conflicts)}")
 
-    # -----------------------------
-    # STEP 1: handle conflicts first
-    # -----------------------------
-    # if conflicts:
-    #     print("\n================ CONFLICT MODE ================\n")
-    #     for f in sorted(conflicts):
-    #         print_conflict(f)
-
-    #     print("\n❌ Sync stopped due to conflicts.")
-    #     return
-    # if conflicts:
-    #     print("\n🔥 ENTERING INTERACTIVE CONFLICT MODE\n")
-
-    #     for f in sorted(conflicts):
-    #         resolve_conflict_interactive(f)
-
-    #     print("\n✅ All conflicts resolved interactively.")
-    #     print("Re-run sync to continue processing upstream changes.")
-    #     return
-
-    # # -----------------------------
-    # # STEP 2: normal merge
-    # # -----------------------------
-    # for file_path in sorted(upstream_only):
-    #     print(f"\nProcessing: {file_path}")
-
-    #     source = load_json("main", file_path)
-    #     target = load_json("story-only", file_path)
-
-    #     merged = merge_json(source, target)
-
-    #     write_json(Path(file_path), merged)
-
-    # # -----------------------------
-    # # STEP 3: update state
-    # # -----------------------------
-    # state["main"] = new_main
-    # state["story-only"] = new_story_only
-    # save_state(state)
-
-    # print("\n✅ Sync complete.")
     if conflicts:
         print("\n🔥 ENTERING INTERACTIVE CONFLICT MODE\n")
 
