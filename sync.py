@@ -60,7 +60,7 @@ def init_state_if_missing():
 
     state = {
         "main": get_commit(SOURCE_BRANCH),
-        "dist": get_commit(TARGET_BRANCH)
+        "story-only": get_commit(TARGET_BRANCH)
     }
     save_state(state)
     print("Initialized sync state.")
@@ -89,18 +89,18 @@ def get_changed_files(old: str, new: str) -> Set[str]:
 
 def detect_changes(state):
     old_main = state["main"]
-    old_dist = state["dist"]
+    old_story_only = state["story-only"]
 
     new_main = get_commit(SOURCE_BRANCH)
-    new_dist = get_commit(TARGET_BRANCH)
+    new_story_only = get_commit(TARGET_BRANCH)
 
     upstream_changed = get_changed_files(old_main, new_main)
-    dist_changed = get_changed_files(old_dist, new_dist)
+    story_only_changed = get_changed_files(old_story_only, new_story_only)
 
-    conflicts = upstream_changed & dist_changed
-    upstream_only = upstream_changed - dist_changed
+    conflicts = upstream_changed & story_only_changed
+    upstream_only = upstream_changed - story_only_changed
 
-    return new_main, new_dist, conflicts, upstream_only
+    return new_main, new_story_only, conflicts, upstream_only
 
 
 # -----------------------------
@@ -148,23 +148,23 @@ def print_conflict(file_path: str):
     print(f"\n🔥 CONFLICT: {file_path}")
 
     main_json = load_json("main", file_path)
-    dist_json = load_json("dist", file_path)
+    story_only_json = load_json("story-only", file_path)
 
-    print("\n--- MAIN ---")
-    print(json.dumps(main_json, ensure_ascii=False, indent=2))
+    # print("\n--- MAIN ---")
+    # print(json.dumps(main_json, ensure_ascii=False, indent=2))
 
-    print("\n--- DIST ---")
-    print(json.dumps(dist_json, ensure_ascii=False, indent=2))
+    # print("\n--- STORY-ONLY ---")
+    # print(json.dumps(story_only_json, ensure_ascii=False, indent=2))
 
     # key-level diff
     keys_main = set(main_json.keys())
-    keys_dist = set(dist_json.keys())
+    keys_story_only = set(story_only_json.keys())
 
     print("\n--- KEY DIFF ---")
 
-    added = keys_main - keys_dist
-    removed = keys_dist - keys_main
-    common = keys_main & keys_dist
+    added = keys_main - keys_story_only
+    removed = keys_story_only - keys_main
+    common = keys_main & keys_story_only
 
     if added:
         print("\n[ADDED in MAIN]")
@@ -176,11 +176,134 @@ def print_conflict(file_path: str):
         for k in removed:
             print(" -", k)
 
-    modified = [k for k in common if main_json[k] != dist_json[k]]
+    modified = [k for k in common if main_json[k] != story_only_json[k]]
     if modified:
         print("\n[MODIFIED]")
+
         for k in modified:
-            print(" *", k)
+            old_val = story_only_json.get(k)
+            new_val = main_json.get(k)
+
+            print(f"\nKEY: {k}")
+            print("  - OLD:", old_val)
+            print("  + NEW:", new_val)
+
+# def resolve_conflict_interactive(file_path: str):
+#     print(f"\n🔥 CONFLICT FILE: {file_path}\n")
+
+#     main_json = load_json("main", file_path)
+#     story_only_json = load_json("story-only", file_path)
+
+#     merged = dict(story_only_json)  # start from current translation
+
+#     keys = set(main_json.keys()) | set(story_only_json.keys())
+
+#     for key in sorted(keys):
+#         main_val = main_json.get(key)
+#         story_only_val = story_only_json.get(key)
+
+#         # no conflict
+#         if main_val == story_only_val:
+#             merged[key] = story_only_val
+#             continue
+
+#         print("\n" + "=" * 50)
+#         print(f"KEY: {key}")
+#         print(f"MAIN: {main_val}")
+#         print(f"STORY-ONLY: {story_only_val}")
+
+#         print("\nChoose action:")
+#         print("  [1] keep MAIN")
+#         print("  [2] keep STORY-ONLY")
+#         print("  [3] edit manually")
+#         print("  [Enter] default STORY-ONLY")
+
+#         choice = input("> ").strip()
+
+#         if choice == "1":
+#             merged[key] = main_val if main_val is not None else ""
+#         elif choice == "2" or choice == "":
+#             merged[key] = story_only_val
+#         elif choice == "3":
+#             new_val = input("Enter new value: ")
+#             merged[key] = new_val
+#         else:
+#             merged[key] = story_only_val
+
+#     # write resolved file
+#     write_json(Path(file_path), merged)
+
+#     print(f"\n✅ Resolved: {file_path}")
+
+def resolve_conflict_interactive(file_path: str):
+    print(f"\n🔥 CONFLICT FILE: {file_path}\n")
+
+    main_json = load_json("main", file_path)
+    story_only_json = load_json("story-only", file_path)
+
+    print("Choose file-level action:")
+    print("  [A] Accept ALL from MAIN (overwrite story-only file)")
+    print("  [S] Keep ALL STORY-ONLY (ignore upstream changes)")
+    print("  [C] Custom per-key resolution")
+
+    file_choice = input("> ").strip().lower()
+
+    # -----------------------------
+    # OPTION A: accept main fully
+    # -----------------------------
+    if file_choice == "a":
+        print("→ Overwriting with MAIN version")
+        write_json(Path(file_path), main_json)
+        print("✅ Done (MAIN accepted)")
+        return
+
+    # -----------------------------
+    # OPTION S: keep story-only fully
+    # -----------------------------
+    if file_choice == "s":
+        print("→ Keeping STORY-ONLY version unchanged")
+        return
+
+    # -----------------------------
+    # OPTION C: per-key resolution
+    # -----------------------------
+    print("\nEntering per-key resolution...\n")
+
+    merged = dict(story_only_json)
+    keys = set(main_json.keys()) | set(story_only_json.keys())
+
+    for key in sorted(keys):
+        main_val = main_json.get(key)
+        story_only_val = story_only_json.get(key)
+
+        if main_val == story_only_val:
+            merged[key] = story_only_val
+            continue
+
+        print("\n" + "=" * 60)
+        print(f"KEY: {key}")
+        print(f"MAIN: {main_val}")
+        print(f"STORY-ONLY: {story_only_val}")
+
+        print("\nChoose:")
+        print("  [1] keep MAIN")
+        print("  [2] keep STORY-ONLY")
+        print("  [3] edit manually")
+        print("  [Enter] default STORY-ONLY")
+
+        choice = input("> ").strip()
+
+        if choice == "1":
+            merged[key] = main_val if main_val is not None else ""
+        elif choice == "2" or choice == "":
+            merged[key] = story_only_val
+        elif choice == "3":
+            merged[key] = input("New value: ")
+        else:
+            merged[key] = story_only_val
+
+    write_json(Path(file_path), merged)
+    print(f"\n✅ Resolved: {file_path}")
 
 
 # -----------------------------
@@ -189,7 +312,7 @@ def print_conflict(file_path: str):
 def sync():
     state = init_state_if_missing()
 
-    new_main, new_dist, conflicts, upstream_only = detect_changes(state)
+    new_main, new_story_only, conflicts, upstream_only = detect_changes(state)
 
     print(f"\nUpstream changed: {len(upstream_only) + len(conflicts)}")
     print(f"Conflicts: {len(conflicts)}")
@@ -197,36 +320,76 @@ def sync():
     # -----------------------------
     # STEP 1: handle conflicts first
     # -----------------------------
+    # if conflicts:
+    #     print("\n================ CONFLICT MODE ================\n")
+    #     for f in sorted(conflicts):
+    #         print_conflict(f)
+
+    #     print("\n❌ Sync stopped due to conflicts.")
+    #     return
+    # if conflicts:
+    #     print("\n🔥 ENTERING INTERACTIVE CONFLICT MODE\n")
+
+    #     for f in sorted(conflicts):
+    #         resolve_conflict_interactive(f)
+
+    #     print("\n✅ All conflicts resolved interactively.")
+    #     print("Re-run sync to continue processing upstream changes.")
+    #     return
+
+    # # -----------------------------
+    # # STEP 2: normal merge
+    # # -----------------------------
+    # for file_path in sorted(upstream_only):
+    #     print(f"\nProcessing: {file_path}")
+
+    #     source = load_json("main", file_path)
+    #     target = load_json("story-only", file_path)
+
+    #     merged = merge_json(source, target)
+
+    #     write_json(Path(file_path), merged)
+
+    # # -----------------------------
+    # # STEP 3: update state
+    # # -----------------------------
+    # state["main"] = new_main
+    # state["story-only"] = new_story_only
+    # save_state(state)
+
+    # print("\n✅ Sync complete.")
     if conflicts:
-        print("\n================ CONFLICT MODE ================\n")
+        print("\n🔥 ENTERING INTERACTIVE CONFLICT MODE\n")
+
         for f in sorted(conflicts):
-            print_conflict(f)
+            resolve_conflict_interactive(f)
 
-        print("\n❌ Sync stopped due to conflicts.")
+        print("\n✅ All conflicts resolved.")
+
+        # -----------------------------
+        # NEW: ask for commit
+        # -----------------------------
+        choice = input(f"\nDo you want to commit changes to {TARGET_BRANCH} branch? (y/n): ").strip().lower()
+
+        if choice == "y":
+            print("\n📦 Committing changes...")
+
+            subprocess.run(["git", "add", "."])
+            subprocess.run(["git", "commit", "-m", "Resolve translation conflicts"])
+            subprocess.run(["git", "push", "origin", TARGET_BRANCH])
+
+            print("✅ Pushed to dist branch")
+
+        else:
+            print("⚠️ Skipped commit. You can commit manually later.")
+
+        # IMPORTANT: update state AFTER resolution
+        state["main"] = new_main
+        state["story-only"] = new_story_only
+        save_state(state)
+
+        print("\n🧠 Sync state updated.")
         return
-
-    # -----------------------------
-    # STEP 2: normal merge
-    # -----------------------------
-    for file_path in sorted(upstream_only):
-        print(f"\nProcessing: {file_path}")
-
-        source = load_json("main", file_path)
-        target = load_json("dist", file_path)
-
-        merged = merge_json(source, target)
-
-        write_json(Path(file_path), merged)
-
-    # -----------------------------
-    # STEP 3: update state
-    # -----------------------------
-    state["main"] = new_main
-    state["dist"] = new_dist
-    save_state(state)
-
-    print("\n✅ Sync complete.")
-
 
 if __name__ == "__main__":
     sync()
