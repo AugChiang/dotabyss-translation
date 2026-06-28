@@ -1,6 +1,6 @@
-# dotabyss-transltions
+# dotabyss-translations
 This branch only fetch the story content.
-If you only need the translations of `novels` (stories), you are at the right place!
+If you only need ONLY the translations of `novels` (stories) and `names` (characters), you are at the right place!
 
 ## How to add another folder to this branch?
 For example, to add `folderC` from main branch to this branch:
